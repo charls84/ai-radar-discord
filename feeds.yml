@@ -48,6 +48,7 @@ categorias:
 
   youtube:
     webhook_env: WEBHOOK_YOUTUBE_AI
+    slack_webhook_env: SLACK_WEBHOOK_YOUTUBE_AI  # opcional: tambien (o solo) a Slack
     color: 0xFF0000
     emoji: "📺"
     publicar_diario: true

@@ -1,4 +1,4 @@
-name: YouTube Viral -> Discord
+name: YouTube Viral -> Discord/Slack
 
 on:
   schedule:
@@ -31,6 +31,7 @@ jobs:
       - name: Run YouTube viral
         env:
           WEBHOOK_YOUTUBE_AI: ${{ secrets.WEBHOOK_YOUTUBE_AI }}
+          SLACK_WEBHOOK_YOUTUBE_AI: ${{ secrets.SLACK_WEBHOOK_YOUTUBE_AI }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}

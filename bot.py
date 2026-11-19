@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""AI Radar -> Discord. Lee feeds RSS, filtra, resume con Gemini y publica embeds."""
+"""AI Radar -> Discord/Slack. Lee feeds RSS, filtra, resume con Gemini y publica embeds."""
 
 import hashlib
 import json
@@ -388,6 +388,49 @@ def construir_embed(item, categoria_cfg, resumen):
     return embed
 
 
+def construir_bloques_slack(item, categoria_cfg, resumen):
+    titulo = f"{categoria_cfg.get('emoji', '')} {item['titulo']}".strip()
+    titulo_seguro = titulo.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace("|", "¦")
+    contexto = item["fuente"]
+    if "vistas" in item:
+        contexto += f" · {item['vistas']:,} views"
+    bloques = [
+        {"type": "section", "text": {"type": "mrkdwn", "text": f"*<{item['link']}|{titulo_seguro[:250]}>*"}},
+        {"type": "section", "text": {"type": "mrkdwn", "text": resumen[:2900] or " "}},
+    ]
+    miniatura = item.get("miniatura") or (
+        miniatura_youtube_de_link(item["link"]) if item.get("categoria") == "youtube" else None
+    )
+    if miniatura:
+        bloques.append({"type": "image", "image_url": miniatura, "alt_text": item["titulo"][:200] or "video"})
+    bloques.append({"type": "context", "elements": [{"type": "mrkdwn", "text": contexto[:300]}]})
+    return {"text": titulo[:300], "blocks": bloques, "unfurl_links": False, "unfurl_media": False}
+
+
+def publicar_slack(webhook_url, payload, max_intentos=4):
+    intento = 0
+    while intento < max_intentos:
+        intento += 1
+        try:
+            resp = requests.post(webhook_url, json=payload, timeout=15)
+        except Exception as e:
+            print(f"  [slack] error de red: {e}")
+            return False
+        if resp.status_code == 200:
+            return True
+        if resp.status_code == 429:
+            try:
+                retry_after = float(resp.headers.get("Retry-After", 1))
+            except ValueError:
+                retry_after = 1.0
+            time.sleep(retry_after + 1)
+            continue
+        print(f"  [slack] error {resp.status_code}: {resp.text[:200]}")
+        return False
+    print("  [slack] maximo de reintentos alcanzado (429)")
+    return False
+
+
 def purgar_archivo(archivo, dias):
     corte = datetime.now(timezone.utc) - timedelta(days=dias)
     filtrado = []
@@ -538,10 +581,16 @@ def main():
 
         embed = construir_embed(item, categoria_cfg, resumen)
 
+        slack_env = categoria_cfg.get("slack_webhook_env")
+        slack_url = os.environ.get(slack_env, "") if slack_env else ""
+
         if webhook_url:
             ok = publicar_discord(webhook_url, embed)
-            print(f"[{'ok' if ok else 'fallo'}] {item['categoria']}: {item['titulo']}")
-        else:
+            print(f"[{'ok' if ok else 'fallo'}] discord {item['categoria']}: {item['titulo']}")
+        if slack_url:
+            ok = publicar_slack(slack_url, construir_bloques_slack(item, categoria_cfg, resumen))
+            print(f"[{'ok' if ok else 'fallo'}] slack {item['categoria']}: {item['titulo']}")
+        if not webhook_url and not slack_url:
             print(f"[sin-webhook] {item['categoria']}: {item['titulo']}")
 
         time.sleep(PAUSA_ENTRE_PUBLICACIONES)

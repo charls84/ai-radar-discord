@@ -1,35 +1,5 @@
 {
   "vistos": [
-    "9018ab213a9546a4",
-    "04ef0a24b82d3d59",
-    "9be13460a38a8b92",
-    "b70c00082a708d81",
-    "b95cb648c302bd95",
-    "77a95990e51b9ad7",
-    "75dc980ab3350897",
-    "b7d64dfd63a61c99",
-    "f1b15428711a9bf7",
-    "77a3204f9cf776fc",
-    "ace0a90c224d149a",
-    "190471b224a546f3",
-    "5bd7b20eae0f456f",
-    "97a5f312b487e57b",
-    "ee9cc54e5a8daeb7",
-    "1cbba6c78c60a7ef",
-    "3b919c48290de87a",
-    "277d5d95b818a694",
-    "6989d45f1a22fe70",
-    "68bc3da059802c3b",
-    "2b0be21294109b8c",
-    "cd11dba6845d7499",
-    "f8b4ef0ad19118ac",
-    "da4ddbd13c07a4fb",
-    "62e232420c4aadc1",
-    "5dd7ef54254f0fea",
-    "c813785eff1d4e9b",
-    "73270be8d65af6e5",
-    "0a34b08ab32d08c9",
-    "8bd2150c4a4a0260",
     "ce838d805ea2e901",
     "e5af2b489c965e39",
     "3234e8514c89d7a2",
@@ -1999,249 +1969,39 @@
     "8435063c9895f31a",
     "5352c975124ba9fc",
     "046d2844f37fc14e",
-    "c9fd2cc5c9a2c913"
+    "c9fd2cc5c9a2c913",
+    "14d778364de0b8bc",
+    "51f1e6bb23db878c",
+    "d2a8af25537c1a29",
+    "6639977f115664a8",
+    "591ca15b5c9b02cc",
+    "ff8fa58411fad6c5",
+    "ffd3cec7c4cf2983",
+    "1fdae3c0e420d25a",
+    "f356e73e385d366e",
+    "cd5ca72aada50e48",
+    "542f464361e07e8d",
+    "45a60e08d1d506a9",
+    "2ec645374b689f10",
+    "941a03d2288a94a9",
+    "793da285738cb5a7",
+    "3eae4c5a99056e05",
+    "bfc3e0763aaa3e0c",
+    "d97de9cb5c798471",
+    "366eab1b7bcf4bfc",
+    "c80a3846723ad8b7",
+    "7456e565b6176357",
+    "19f80ea9fd09b8b3",
+    "eb1b103822c572f2",
+    "78d11b1e13131a21",
+    "4de050bb76b9f8fa",
+    "99b77bf0de1e355b",
+    "3eae21e70b8a9cf3",
+    "189a796c3fa89e01",
+    "f8e71993b89cb939",
+    "9bab96555cb25111"
   ],
   "archivo": [
-    {
-      "titulo": "Starbucks explora el uso de inteligencia artificial para tomar pedidos en sus servicios de drive-thru - Bloomberg Línea",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdml0MXRqeGlBSHR4VTRJemdtM2dnT1B3ZXUzT2tnWkJYN1ZaOTE1RU04VnhiUmNvQmlVXzVuajA2VVN2T1BrRTdLTmd3TmdFX2tXNXR2VDhXZFNBbVZUc2Y2c1hUNTVXX1RQX3gzc3I4cWlPNHNMaVR6MnhMd2xUUmY0dDVUeHZDLUMzdmJ1NW82d2hQckQwelIwUHQycmZDVFlDR29sczFwTlVxSnJXT2o2OU50djAtSUZKZVlLbDNtcWhJSGtRVnpjQVV2d2F5a1hfR0Q1WVRyQdIB7gFBVV95cUxQTUlLLXhaY080TTJBV1NDbzVldGJUNTZWM2l5bkQyeTBvbTB5TEZSUmRVWl9wcU1kNDBaYkdaMTFPMk9VY0JBVHdTU09HdzBoaC1zR19VeTJVSXlORlZSWmNJTU1kVzFtNG9wVldKYmZqWEp4UzNUbUNXODZHUTVFTlNmdVNNWVdIUzZKdXFKX05neEJ4U0h0czV4dFBPRUd5NFJiMWRKdkZ6eEQwb3k0Q0o5MjhPVEZyVkt5MUpkZWJVbHNKcFE4VXd4eHVYWUFNbFJiWlExOHpiSlNJcHE0d1dEU002V2lOdWRVTGtR?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-30T06:09:03+00:00",
-      "extracto": "Starbucks explora el uso de inteligencia artificial para tomar pedidos en sus servicios de drive-thru Bloomberg Línea"
-    },
-    {
-      "titulo": "Las pymes del sudeste de Madrid integran la Inteligencia Artificial y el marketing digital en sus estrategias de internacionalización - empresa Exterior",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQa1lmZG1kRE5uRTl3VnM1YmN5ZW82M3lMQjdOUWV3WVF2al9BUlcyZDlrRko4dGdod2tTRmR2bm43RWQzNG50bGVRRWFrZkFkLXMtZXlPNXpXTUhKd2tYaHhReVc2VklDbk85dFdaWkFZN3haQ08zSlJrYUlCUW92c0VLbnNUQjlVZkUzTFlRUlYxQmZPOWdHXzF5N3ZDd252Y2tJRzRKaUdDbXlSLU93YVRIWEtfX0FmSkNmSUlidk5IMy1kNFE2SEJvdlItTGduYUpKcHZfT1RXSFNzdnJIMHh0eXRudVI2SXNzSWhZUmxxZjlW?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-30T17:37:51+00:00",
-      "extracto": "Las pymes del sudeste de Madrid integran la Inteligencia Artificial y el marketing digital en sus estrategias de internacionalización empresa Exterior"
-    },
-    {
-      "titulo": "Solo 14% de empresas en México mide el ROI de la IA - El Ecosistema Startup",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMWItMG1YOUJIMk1OY0ZrVGtzVWNzb1ByQnc2aWxoZUdEMUQ2NzIzNUFGa1NWdEpHM3dGTi1uRVZ3Um54T29Rb0JtLWRpWnBhWGc2RVdpbk1fSFBfelQzZDdGMklQTWp5UnNaTWZWSEJWcjA2RmtXVTFabDB1Snk5eXExVXlVbWcy?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-30T08:33:32+00:00",
-      "extracto": "Solo 14% de empresas en México mide el ROI de la IA El Ecosistema Startup"
-    },
-    {
-      "titulo": "La carrera por la infraestructura de IA pone en juego 3,5 billones de dólares, advierte Gartner - COMPUTERWORLD ESPAÑA",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZ1BmX09HZ1o3NXFwdkl0Nk9jbGdtN0JOV3Z6Mm41OHVheTVKTU1lX3QwTl9xbGJ5N0pxelVWUGFMWEg1RHlLZmFqQm44NVc3Sjg3OEVpbzlNNFBaSjhoODA0dlNWRDl2UEFWbzA2U2F1N01YWG1hNmJINXRhRWtKWW9aaG9Ha0stQnJGeUw2aTAyZ3RCMVU1dGQ1NlZSeUs4enF4bXBCT25JUU5CQ2FRUTZDRGRMRWFFZVh5bVpJSXlPNG1LRTBtM1VwMjRNMXljOUhpZDNnam1ISy1tU3RVWXlnUkJ5bTdGRWxvVENyZTZJYkpKb3pZ?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-30T11:47:51+00:00",
-      "extracto": "La carrera por la infraestructura de IA pone en juego 3,5 billones de dólares, advierte Gartner COMPUTERWORLD ESPAÑA"
-    },
-    {
-      "titulo": "MediaTek, de los chips para DVD a la inteligencia artificial que cabe en un smartphone - Forbes Colombia",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT3hxVWUxZFkyWWxRbHcxVXdiY21KaWE2Tl8yRmpNZ2NDQXNwRklVNHZlWDZpYXpQN2xQVS1sZW9QcXUyUjRCcVJ2Tmd3bnNtUm1HU1ZtUE02cm15MXRZRFg5NE9UdnlWYkZJWGROdXJRT1M1bU9DNFFIZVBCWHpTcEJ2ZTA4Y1c5ckU1MVRib1dQb1pBNXlQeXo1ejRKelF3UnhCb09FNFBTYjRGZmNISFJJeGJOSWlWalFEMXJpYlY5YVFYTWc?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-30T14:43:21+00:00",
-      "extracto": "MediaTek, de los chips para DVD a la inteligencia artificial que cabe en un smartphone Forbes Colombia"
-    },
-    {
-      "titulo": "La caída de las tecnológicas se intensifica por las dudas sobre el gasto en inteligencia artificial - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUTE4bFhEUE9ObEI4Yjd6QmZYbFdMTDEwbGIwcFR1U3pWMERnZUxzRkNjeWpWUlI1dGdTWDFEd3B0ZW1GRjlrNWFxemc3d2d0dkF1bUZ1U0NLNi1SaVQxdDVNMU9nVWhqRXdISVFxT2ZQRE55LUhWZXB0dWVaOFNhRXRxQ2daQ096YkNpQVB5bk1kMzhJSDRaUEVtZ0MyN0RhM3Y1MEFHOEJXNUtiSXhlc3BDaXk5RWszdFV0NjZwb2FzZzM2ZVlxbWZjU01VX2RuZzRNZFM1eGdGbGk0LUZtRTRLeXFOVHVrME9oX3dfYWRQNEhLeEY00gGSAkFVX3lxTFBtMFpVMU9feGE2RmVhNFI2TjdjVy1oNjdMcjNldkZjMHk4WF9GQUgxaEJRQ3VILV9rZm03aWRjVVBDZWJ0NG1ETEQ3WG9fTEhlazREeTY3cFNZQWpEdUVtN0J2X3Z1bmNtcmxhelJKOVZ3N2ZiXzRWSmI3QXJOSGZLeTUxVFFNb3FUeERKVnZDb0dEdzJyMGNXRUxMNDItWWhPVTRFNUNvR0tYdW1zN191LXg1ejRnSjc3ZVJtVDlYWDRLVEV5N05TcUtrd2UzbUliSnh6VlRMOFphSTFKdk5fUTJUd3NyRWVIVV9vTmlLcnJGREQ3OHFGWUZuY1RRWjVjc0hwTU9WMjdsWWVRc3YxMnc?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-30T13:58:00+00:00",
-      "extracto": "La caída de las tecnológicas se intensifica por las dudas sobre el gasto en inteligencia artificial Infobae"
-    },
-    {
-      "titulo": "INFOTEP y ANEIH: plan de talento técnico con IA en RD - El Ecosistema Startup",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa3FWM00yVmFvR2RNRV93MlYzRm5TcTNqUFN3R2VHVEVMbU95OVNROU5oM3JDM1BPZkRBX2F4ZENBV0pBNl8xUG1waG95ejVlcUdlX0xXYVVQVmJwYnE0WVhISno3UU54T1pUc0w0eGtUY2pLemdHVnM5ZzkzcEY0cTBiVkVyV2tsbHh3?oc=5",
-      "fuente": "GN — IA y negocios (ES)",
-      "categoria": "business",
-      "fecha": "2026-10-30T17:33:36+00:00",
-      "extracto": "INFOTEP y ANEIH: plan de talento técnico con IA en RD El Ecosistema Startup"
-    },
-    {
-      "titulo": "Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb1lUazRxc29MNFd1MG5SZW1VWlM1alZoeXZmTGNwQXpfcVptRFhJSmwtb3NJd2RCWlBEYnk3bGtwS1EwR1kzQ19JTmItY1J1blNuRXJYTU43bFFlbmI5Ty14em5FYmc0RzhlRDZfRlhYTS15RWpvNUQza2RfenVrZjFmN3dSYlo4Yzg0MUpaeV9aa0cwQkJONjZ2bnlKcmZ6aS1HX1ZreHlyZw?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-10-30T07:11:59+00:00",
-      "extracto": "Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies Yahoo Finance"
-    },
-    {
-      "titulo": "Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPVkJ5M0RleDdQbkQyZWs0UUF1V3BITUs1Yzk3Sjd3QWxUQWxDQnBQLWU4dERDYWJMcEMtUzRyRXBCRzRWQ3N5djRsSHdlWE5TeU0wMi0tdVVHMktaNVVFb1dXMG5Mc291MWJteGVKQVA2TlpybE5qWGxjbktxNzg0Y3BWWXRyLVB3V0g5WTZVWnMtcWVsZDhjMDJIQmhUUXFwOUhXN01pdGF2VDNnN2JFQ28wNWU3eHdsdXNMZVhMcWxlcGIzbTF0YzE1U0VmZVU2QUhUTGtoQmVYc2xPYWZTdUJtV3Q3SFZiYjVreVZtTjAyTW9MM2twSmw1UzJQa1FSSkRJOW5STVFCQjR1ekI3SDFn?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-10-30T07:51:00+00:00",
-      "extracto": "Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies The Motley Fool"
-    },
-    {
-      "titulo": "Companies are not saving money with AI, Gartner finds - HR Dive",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaTTFER0hkSWtaTFA2OVpnYXFCWTQ5YWRZWFlGWndSM0VDZUdpR25KZ2hqNXh1RWVFSFY0T050MVpOMmphdThZSUpLTW01ZHZIMlhIYThId2l5cnBPcHJlTUNiX2ZhdWhnYjJReUR1cXA2NlFOeENQOFZHZm81R3M?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-10-29T18:06:16+00:00",
-      "extracto": "Companies are not saving money with AI, Gartner finds HR Dive"
-    },
-    {
-      "titulo": "Dartmouth provost resigns following accusations he used artificial intelligence for writing - Rutland Herald",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNZXdVMWZJZkJIMVRvSjJxQlFYbWNuU3I3VUZMMFVueW9wT2RKUUZtTkhRSk1kdjBRUzJOZTBjdmhvOXdKVFIyQXoxYXJOSEtiRlpOZkxjUGZydGdjWjhwcWRMZVRERmVSLXZQUXVBS3RiOVh2eXlxTmdqamd3TWlPQURxWW5IWmp5S0xYT0trVXFWc3Ffc1pNQmh3UTJvd3lYU1hwQWRlbHdqMGZfMi1BdUFKOGw5djJoNk90RE9xYlU5UERfVGJVRE5FQ2RsLWhkYldad1RCa1dPNm1TOHEyd21Wczg3Qkk4WHNNc3NjOEhxamNrRzRhYmlDSklXTE9mS2w2X2xmNVZzbGRKQTZyaGpVSQ?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-10-29T20:18:16+00:00",
-      "extracto": "Dartmouth provost resigns following accusations he used artificial intelligence for writing Rutland Herald"
-    },
-    {
-      "titulo": "Among major domestic companies that have introduced artificial intelligence (AI), more people have h.. - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VTTA5eDNrLUQ1MDR1UmlqWmNPSHJrUlBQUW5KbVFuOTl4QU9oTzZwYkh2NHF4cHRpakhrX0IxTUZ2WjZLSjl2QktMUQ?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-10-30T04:45:54+00:00",
-      "extracto": "Among major domestic companies that have introduced artificial intelligence (AI), more people have h.. 매일경제"
-    },
-    {
-      "titulo": "India proposes framework to unlock data for AI training, protect privacy - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTjJpZHlvV3hHZ0VRa2hFSldBS1pPQzdBZ3ZEb29pd1VkSEhzaTl2Z2t6YmJ2WVRvdVdvMGNsazAta08zVENJV2gwX1JtOWliS25fNFRfdmNMSXBXQ1htRC11T1M2b0gwd0E3Y05KdF9lV1FrUlRZclVyTV9FVWRvTGNMSDV3elNQX1JnelVKY2ROaWZ4NU1DVjEwZVItbVFqNm1hV0t1V05lRDRVOVEtekotQTUzNFh4MVhfSkw0SDAycGF0NkFJeFZ4d19vRGthWWxVNm9EU3EzX3RuVS1ES3hOR0M3R0JBSnZtaTNpOVBMZ9IB9wFBVV95cUxPWVJHR3A3dTVnYVNDeDlpd0ZRR0ctZUxablBfN0hXLVRpMjQ4VDVWa251dXhFZGpqLVZmeVFJM2ZMenlMdFl0d3E2TnQ1WUVsZzFNLXltbkxQYU5TaUNMQkxCRFF5ZFRvOXByWnpWVHRBZFhLV3pGZjdVN1RVbllDTGI1WS1XcU14SEFZbFdZQlQwd1FfeFJLd0VzVVF2MVJNWDJ2bnp2T2gxYmdsUWJ1SHZfenJrMTRRVm9NRUNTckpfSERNYmk0V2diOTFSZm5EMjMwOWZ4ZlVZVTRrRjJ6bS1Hc3hNNUhRd0dOWjF6QWFXYUpBaWl3?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-10-30T12:31:27+00:00",
-      "extracto": "India proposes framework to unlock data for AI training, protect privacy Business Standard"
-    },
-    {
-      "titulo": "Artificial Intelligence sector study 2025 (web version) - GOV.UK",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS1JsMi1tVG1GMHV6RGJzRVNUdjZpZE9wenBtSWRUZE1GUEc5YlZhQUtwZmJTbG8xMHVoZFpiVEp4ek41NjJjN3FmblFIOGhwS1ZMcWR4NFZzMjY1SUJyYWpKSGFNME5nWDV3a2g0OVZwOVJmcjA1Um0zOGNWZGdLVzFRSWJMRUd2dGIzOVFBUlR4RHh4S2M5N3ZMeEFVQzI0dkFzWmhuT3hlMUNQUFRmSkRQdFVhVUlUTlZLaGZrT2NpMTRnVVNaQ1ZxMUhIcHNBTHNOcA?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-10-29T16:56:51+00:00",
-      "extracto": "Artificial Intelligence sector study 2025 (web version) GOV.UK"
-    },
-    {
-      "titulo": "Tencent is expanding its global cloud business with corporate artificial intelligence (AI). While Te.. - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82amhObTFaQTh0TjJkZHpzQk5RcGp1dHNaSFVPcU1lazlndHRKMlc0UjFQZUFMQmVoNXRmb1Zjcmc2cnlRZGN6TnJCbw?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-10-30T04:47:28+00:00",
-      "extracto": "Tencent is expanding its global cloud business with corporate artificial intelligence (AI). While Te.. 매일경제"
-    },
-    {
-      "titulo": "Chief Justice Sundaresh Menon Highlights the Importance of Human Judgment in the Age of Artificial Intelligence - Thailand Business News",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNVA0Y29QRVNJcE1sTldMemZMbkNuMEdGcHJPN0lHbXRJcnBsaDJaU0NxYURpV0R5MG12eWY4QUdvajFmODgyQWtRb0R2OTRWVUVmQXF3a1E2WWtySjdqeGtCVkNCa05LUTh3VjBxNlN5VzdpLWpscC01b2s2aFFGUTVuUzkxN0pNUUZzam55TjAwMDNYSnlsMVJJRkJwTFBZQWx3dVBNenlWdlc1cFo2YndJbEJRRktJblIyS2Q0STZqRzVBV0FRd2VndU45N3A3cGdrUnJkRFNwTFhLYWNJR0thVnpkcDR2enJuNUU1MA?oc=5",
-      "fuente": "GN — AI & business news (EN)",
-      "categoria": "business",
-      "fecha": "2026-10-30T08:58:00+00:00",
-      "extracto": "Chief Justice Sundaresh Menon Highlights the Importance of Human Judgment in the Age of Artificial Intelligence Thailand Business News"
-    },
-    {
-      "titulo": "Supporting a shared AI training control for websites",
-      "link": "https://developers.google.com/search/blog/2026/10/ai-training-control",
-      "fuente": "Google Search Central",
-      "categoria": "dxw",
-      "fecha": "2026-10-30T00:00:00+00:00",
-      "extracto": "Today, we're announcing our plans to support a shared AI training control in robots.txt. This will help websites express their AI training preferences across multiple AI providers in a single step and is based on work from the AIPREF working group at the Internet Engineering Task Force (IETF). This builds on our long history of providing website owners with clear controls, including through Google-Extended, the AI training control we've offered s..."
-    },
-    {
-      "titulo": "Google Adopts New AI Training Control",
-      "link": "https://www.seroundtable.com/google-ai-training-control-42430.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-30T16:50:00+00:00",
-      "extracto": "Google is adopting new AI training controls, under consideration by the IETF, that should simplify and streamline AI training controls for publishers and site owners."
-    },
-    {
-      "titulo": "Microsoft Bing New AI New Controls With AI Training From AI Search Grounding",
-      "link": "https://www.seroundtable.com/microsoft-bing-ai-controls-42429.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-30T16:15:00+00:00",
-      "extracto": "Microsoft just announced new Bing AI content controls \"offering newer, simpler, and clearer preferences that allow you to make choices about training, grounding, or both while remaining eligible for Bing search results,\" Krishna Madhavan, Principal Product Manager, Microsoft Bing, wrote."
-    },
-    {
-      "titulo": "ChatGPT Gets Wider Ads, Multi-Image Ads Expands, Expansion & More",
-      "link": "https://www.seroundtable.com/chatgpt-ads-update-42427.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-30T15:17:00+00:00",
-      "extracto": "OpenAI just sent its weekly email update to advertisers announcing the ChatGPT Ads are live in 26 more countries, a new wider standard ad unit format, Multi-image ads are now available in open beta to all advertisers, Shopify integration is now available internationally and Shopify integration is now available internationally."
-    },
-    {
-      "titulo": "Daily Search Forum Recap: October 30, 2026",
-      "link": "https://www.seroundtable.com/recap-10-30-2026-42424.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-30T14:00:00+00:00",
-      "extracto": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Ads in Google AI Mode make Google less per search, but Google has more searches. Google's John Mueller said AI spam tactics will be caught..."
-    },
-    {
-      "titulo": "Search News Buzz Video Recap: Google Volatility X2, Spam Updates, AI Overviews Everywhere, Blending Ads & Organic, Google & Microsoft Earnings",
-      "link": "https://www.seroundtable.com/video-10-30-2026-42418.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-30T12:01:00+00:00",
-      "extracto": "This week, we reported on Google Search volatility not once but twice this week. Google warned tools on user-generated spam guidelines. Google downplayed the importance of fresh indexing reporting. Google explained..."
-    },
-    {
-      "titulo": "Google AI Overviews & AI Mode 0.9% Click-Through Rate, Opt Out Study Says",
-      "link": "https://www.seroundtable.com/google-ai-overviews-mode-ctr-42421.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-30T11:51:00+00:00",
-      "extracto": "Everyone has been asking, what is the click-through rate you get from Google Search AI features such as AI Overviews and AI Mode. Well, a new small study says the click-through rate is about 0.9%. The study also showed that when you opt out of showing in Google's Search generative AI, it also leads to a drop in clicks in the main web results."
-    },
-    {
-      "titulo": "Bing Showing Ads Within AI Overviews",
-      "link": "https://www.seroundtable.com/bing-ads-copilot-ai-overviews-42416.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-30T11:41:00+00:00",
-      "extracto": "Microsoft is now showing ads within the Bing AI Overviews powered by Copilot. I don't think I've seen ads within the AI responses in Bing Search and I personally still cannot trigger them, but Khushal Bherwani shared a screenshot of an ad within an AI Overview in Bing Search."
-    },
-    {
-      "titulo": "Google & Bing Halloween Search Easter (Pumpkin) Eggs",
-      "link": "https://www.seroundtable.com/google-bing-halloween-search-easter-eggs-42415.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-30T11:31:00+00:00",
-      "extracto": "Halloween is tonight/tomorrow and to celebrate both Google and Bing has special easter eggs (or should I call them pumpkins) for its search results. Google asks you to find a costume using AI Mode, which is boring. But Bing has a floating ghost that explodes into candy when you tap it."
-    },
-    {
-      "titulo": "Google's Gary Illyes: AI Made Bot Impersonation Worse",
-      "link": "https://www.seroundtable.com/google-ai-made-bot-impersonation-worse-42422.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-30T11:21:00+00:00",
-      "extracto": "Gary Illyes from Google was recently interviewed by Aneta Samkoff, host of the Odys Podcast. The topic was all about bots and crawlers and they covered a lot of ground. Gary said bot impersonation is more of a problem now because of AI. Bot impersonation is when rogue bots pretend to be someone they are not, like pretending to be Googlebot."
-    },
-    {
-      "titulo": "Google Gemini Stopped Attaching UTM Parameters To Cited URLs",
-      "link": "https://www.seroundtable.com/gemini-utm-parameters-42399.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-30T11:11:00+00:00",
-      "extracto": "Google seems to have stopped appending UTM parameters on Gemini links, the cited URLs in Gemini's AI responses. Google started adding UTM parameters to links in Gemini in early September, but then, around September 28th, Google stopped."
-    },
-    {
-      "titulo": "Google Search May Be Bringing Back 100 Search Results Parameter",
-      "link": "https://www.seroundtable.com/google-search-100-search-results-parameter-back-42423.html",
-      "fuente": "Search Engine Roundtable",
-      "categoria": "dxw",
-      "fecha": "2026-10-30T09:40:00+00:00",
-      "extracto": "Google Search may be bringing back the ability to see 100 search results per page by bringing back the num=100 parameter. As a reminder, Google dropped this feature in September 2025 as one of many methods to prevent crawlers from scraping its search results. As you know, third-party tracking tools are not working so well these days."
-    },
-    {
-      "titulo": "EP 280- Why Google Deletes 2% of Reviews, Siri Search, Google’s New In-Stock Check & Its Ad Revenue Miss",
-      "link": "https://www.nearmedia.co/ep-280-why-google-deletes-2-of-reviews-siri-search-googles-new-in-stock-check-its-ad-revenue-miss/",
-      "fuente": "Near Media (Local search)",
-      "categoria": "dxw",
-      "fecha": "2026-10-29T19:35:26+00:00",
-      "extracto": "Greg Sterling and Mike Blumenthal dig into a study of Google review removals and why review spikes get punished, Siri's new local search in iOS 27.2, Google's Let's Confirm Its in Stock inventory agent, and the earnings miss Google partly blamed on AI Mode."
-    },
-    {
-      "titulo": "Brilliant Builds: Building for Clarity",
-      "link": "https://www.twilio.com/en-us/blog/events/Brilliant-builds-episode-2",
-      "fuente": "Twilio Blog",
-      "categoria": "dxw",
-      "fecha": "2026-10-29T00:00:00+00:00",
-      "extracto": "In episode 2 of Brilliant Builds, we’re joined by Stephanie Hare—technology researcher, author, and co-presenter of the BBC's AI Decoded."
-    },
     {
       "titulo": "How to build multilingual AI agents for customer support",
       "link": "https://www.twilio.com/en-us/blog/insights/multilingual-ai-agents",
@@ -14275,6 +14035,306 @@
       "categoria": "dxw",
       "fecha": "2026-11-17T21:27:04+00:00",
       "extracto": "Bloomreach Acquires AthenaHQ To Connect AI Search Visibility With Customer Engagement Pulse 2.0"
+    },
+    {
+      "titulo": "Introducing Claude Meetings",
+      "link": "https://www.youtube.com/watch?v=YUYeHMsqbmY",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-11-12T20:10:59+00:00",
+      "extracto": "Introducing Claude Meetings: add Claude to your team's video call and it builds docs, whiteboards, and other artifacts with you ...",
+      "vistas": 908611,
+      "miniatura": "https://i.ytimg.com/vi/YUYeHMsqbmY/hqdefault.jpg"
+    },
+    {
+      "titulo": "Bernie Sanders Grills Claude AI Over Data Privacy And Surveillance In Viral Anthropic Conversation",
+      "link": "https://www.youtube.com/watch?v=82Xv_bPVtpU",
+      "fuente": "CRUX",
+      "categoria": "youtube",
+      "fecha": "2026-11-16T10:30:20+00:00",
+      "extracto": "Senator Bernie Sanders questions Anthropic's artificial intelligence assistant Claude about the growing risks of personal data ...",
+      "vistas": 832630,
+      "miniatura": "https://i.ytimg.com/vi/82Xv_bPVtpU/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Vs Video Editors: Is this the END?",
+      "link": "https://www.youtube.com/watch?v=d3NJyNn6vTQ",
+      "fuente": "Professor Of AI",
+      "categoria": "youtube",
+      "fecha": "2026-11-13T11:11:22+00:00",
+      "extracto": "Claude Vs Video Editors: Is this the END?",
+      "vistas": 688233,
+      "miniatura": "https://i.ytimg.com/vi/d3NJyNn6vTQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "🔥Claude மூலம் பணக்காரர் ஆவது எப்படி? 😱 #shorts #claude",
+      "link": "https://www.youtube.com/watch?v=73Xqx3KfTc8",
+      "fuente": "Tamil Tech - MrTT",
+      "categoria": "youtube",
+      "fecha": "2026-11-14T05:46:05+00:00",
+      "extracto": "Using Claude AI, we demonstrate how to identify engine problems, understand mechanical issues, and find possible solutions ...",
+      "vistas": 471047,
+      "miniatura": "https://i.ytimg.com/vi/73Xqx3KfTc8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude открыл магазин: что пошло не так в Project Vend?",
+      "link": "https://www.youtube.com/watch?v=lkL3jZWa8bg",
+      "fuente": "Наука AI",
+      "categoria": "youtube",
+      "fecha": "2026-11-14T07:15:35+00:00",
+      "extracto": "Anthropic доверила ИИ небольшой магазин. Снеки, цены, вольфрамовые кубы, скидки и менеджер Seymour Cash: что ...",
+      "vistas": 303215,
+      "miniatura": "https://i.ytimg.com/vi/lkL3jZWa8bg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Make Money From YouTube Clips Using Claude + OpusClip | Comment CLIP",
+      "link": "https://www.youtube.com/watch?v=P6hhEeyddSM",
+      "fuente": "ezCommit",
+      "categoria": "youtube",
+      "fecha": "2026-11-16T13:00:04+00:00",
+      "extracto": "Make Money From YouTube Clips Using Claude + OpusClip | Comment \"CLIP\" #claude #ai #clipping #sidehustle #opusclip ...",
+      "vistas": 277372,
+      "miniatura": "https://i.ytimg.com/vi/P6hhEeyddSM/hqdefault.jpg"
+    },
+    {
+      "titulo": "WNA CINA INCAR KTP WARGA UNTUK JADI DATA CLAUDE Ai",
+      "link": "https://www.youtube.com/watch?v=OD7ARs2dzVg",
+      "fuente": "Kamar JERI",
+      "categoria": "youtube",
+      "fecha": "2026-11-15T13:41:44+00:00",
+      "extracto": "Kata Pena : https://www.youtube.com/@Katapena88 What'sGood TV : https://www.youtube.com/@WhatsGoodTV09 Dibalik Kisah ...",
+      "vistas": 338056,
+      "miniatura": "https://i.ytimg.com/vi/OD7ARs2dzVg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Use Claude Without Limits (FREE 7.4 BILLION Tokens)",
+      "link": "https://www.youtube.com/watch?v=wVoWwo4P3BM",
+      "fuente": "Outskill",
+      "categoria": "youtube",
+      "fecha": "2026-11-13T15:50:13+00:00",
+      "extracto": "Use Claude for free: the same Claude desktop app, running on up to ~7.4 billion free AI tokens a month. No subscription, no credit ...",
+      "vistas": 255886,
+      "miniatura": "https://i.ytimg.com/vi/wVoWwo4P3BM/hqdefault.jpg"
+    },
+    {
+      "titulo": "Give Me 13 Minutes and I ll Make You Disgustingly Good With Claude",
+      "link": "https://www.youtube.com/watch?v=OUbEeJOxjyw",
+      "fuente": "Duncan Rogoff | Learn Claude Code",
+      "categoria": "youtube",
+      "fecha": "2026-11-15T16:00:11+00:00",
+      "extracto": "Master Claude Code in 45 Days + all my resources. Only $9. https://www.skool.com/claudecodeclub Most people use Claude ...",
+      "vistas": 332771,
+      "miniatura": "https://i.ytimg.com/vi/OUbEeJOxjyw/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Fable 5.2 Monetized my YouTube Channel in 7 Days",
+      "link": "https://www.youtube.com/watch?v=dYRbrAVtyPM",
+      "fuente": "Danny Why",
+      "categoria": "youtube",
+      "fecha": "2026-11-12T13:37:08+00:00",
+      "extracto": "Connect Higgsfield to Claude and get 3 free days trial: https://higgsfield.ai/s/danny-why-gPSKZA Up to 60% OFF premium plans ...",
+      "vistas": 227053,
+      "miniatura": "https://i.ytimg.com/vi/dYRbrAVtyPM/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Made a Full Documentary Using ONLY Claude AI (No Editing!)",
+      "link": "https://www.youtube.com/watch?v=l2_pKB1EbMQ",
+      "fuente": "Grow With Kaz",
+      "categoria": "youtube",
+      "fecha": "2026-11-13T17:10:15+00:00",
+      "extracto": "Build Your Own Claude Animation Skills from Scratch(Skool) - https://www.skool.com/grow-with-kaz-2652/about What if Claude AI ...",
+      "vistas": 195846,
+      "miniatura": "https://i.ytimg.com/vi/l2_pKB1EbMQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "Code Mode Is Claude Code s BIGGEST Harness Change Yet",
+      "link": "https://www.youtube.com/watch?v=DRNbxPk9Ab8",
+      "fuente": "Ray Amjad",
+      "categoria": "youtube",
+      "fecha": "2026-11-16T12:04:50+00:00",
+      "extracto": "Black Friday Offer: https://www.agenticcoding.school/black-friday?v=DRNbxPk9Ab8 ✉️ My newsletter ...",
+      "vistas": 207888,
+      "miniatura": "https://i.ytimg.com/vi/DRNbxPk9Ab8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Stop Paying for Claude Code(Use it for FREE!)",
+      "link": "https://www.youtube.com/watch?v=9is06cQ315s",
+      "fuente": "Ishan Sharma",
+      "categoria": "youtube",
+      "fecha": "2026-11-16T12:30:54+00:00",
+      "extracto": "You can now run Claude Code locally with Ollama and local AI models without paying Anthropic or any AI company out there.",
+      "vistas": 183722,
+      "miniatura": "https://i.ytimg.com/vi/9is06cQ315s/hqdefault.jpg"
+    },
+    {
+      "titulo": "Anthropic Just Released the New Rules of Claude Code",
+      "link": "https://www.youtube.com/watch?v=8Pg6G5h05hk",
+      "fuente": "Nate Herk | AI Automation",
+      "categoria": "youtube",
+      "fecha": "2026-11-17T13:26:00+00:00",
+      "extracto": "FREE AI OS Template: ...",
+      "vistas": 175434,
+      "miniatura": "https://i.ytimg.com/vi/8Pg6G5h05hk/hqdefault.jpg"
+    },
+    {
+      "titulo": "【野嶋MC“クビ”化計画】仕事の9割をAIエージェントで自動化／Claude Codeで作業マンとしての自分をクビにする、2027年最新AI活用術",
+      "link": "https://www.youtube.com/watch?v=cx8lHb0LfXo",
+      "fuente": "PIVOT 公式チャンネル",
+      "categoria": "youtube",
+      "fecha": "2026-11-13T01:00:20+00:00",
+      "extracto": "【Sponsored by div】 企業が持つ独自のサービスやメソッドからビジネスパーソンに必要なスキルセットを学ぶ番組「＆SKILL ...",
+      "vistas": 194886,
+      "miniatura": "https://i.ytimg.com/vi/cx8lHb0LfXo/hqdefault.jpg"
+    },
+    {
+      "titulo": "Aula 02 - Do Cowork ao Claude Code: Automatize Tarefas e Crie Projetos sem Programar",
+      "link": "https://www.youtube.com/watch?v=N50rSKQdxvo",
+      "fuente": "Daxus",
+      "categoria": "youtube",
+      "fecha": "2026-11-18T02:29:42+00:00",
+      "extracto": "Lista de presença Aula 2: https://links.daxus.com/npyy7gcgk13xroff ...",
+      "vistas": 103130,
+      "miniatura": "https://i.ytimg.com/vi/N50rSKQdxvo/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude + Higgsfield MCP: One Connector Replaced My Creative Team",
+      "link": "https://www.youtube.com/watch?v=vogO4Mvh7hk",
+      "fuente": "MATLAB TECH",
+      "categoria": "youtube",
+      "fecha": "2026-11-12T17:26:59+00:00",
+      "extracto": "https://higgsfield.ai/s/higgsfield-mcp-general-yt-matlab-tech-xhUnHs — Connect Higgsfield to Claude and build your own AI ...",
+      "vistas": 46365,
+      "miniatura": "https://i.ytimg.com/vi/vogO4Mvh7hk/hqdefault.jpg"
+    },
+    {
+      "titulo": "It’s Official: Adobe Is Bringing ChatGPT Claude Inside Photoshop",
+      "link": "https://www.youtube.com/watch?v=K8B43fNr-Q8",
+      "fuente": "Glyn Dewis",
+      "categoria": "youtube",
+      "fecha": "2026-11-12T16:30:27+00:00",
+      "extracto": "Adobe has announced that AI assistants will soon be able to work directly inside its desktop apps like Photoshop, and it could ...",
+      "vistas": 37845,
+      "miniatura": "https://i.ytimg.com/vi/K8B43fNr-Q8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Artlist Just Changed AI Creation! MCP for Claude + Kling 4.0 Explained",
+      "link": "https://www.youtube.com/watch?v=rlcM9HACp3g",
+      "fuente": "Tech Junction ",
+      "categoria": "youtube",
+      "fecha": "2026-11-12T21:50:59+00:00",
+      "extracto": "Try Artlist AI Here:** ...",
+      "vistas": 11998,
+      "miniatura": "https://i.ytimg.com/vi/rlcM9HACp3g/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude AI automates professional web design with multi-model integration",
+      "link": "https://www.youtube.com/watch?v=AJUfuC1XNZ4",
+      "fuente": "Rayan Miller | AI & Tech ",
+      "categoria": "youtube",
+      "fecha": "2026-11-13T23:58:03+00:00",
+      "extracto": "Claude has been enhanced with expert design skills, enabling it to create professional-quality websites from simple descriptions.",
+      "vistas": 11756,
+      "miniatura": "https://i.ytimg.com/vi/AJUfuC1XNZ4/hqdefault.jpg"
+    },
+    {
+      "titulo": "क्या अब TallyPrime में AI आपकी जगह काम करेगा?",
+      "link": "https://www.youtube.com/watch?v=GkmD8XUDXts",
+      "fuente": "Learn Well",
+      "categoria": "youtube",
+      "fecha": "2026-11-13T13:42:41+00:00",
+      "extracto": "In this video, I will show you how to connect TallyPrime with Claude AI Desktop using the Learn Well Tally Claude Connector.",
+      "vistas": 16005,
+      "miniatura": "https://i.ytimg.com/vi/GkmD8XUDXts/hqdefault.jpg"
+    },
+    {
+      "titulo": "How To Create Explainer Videos With Claude Fable 5.2 + Higgsfield MCP",
+      "link": "https://www.youtube.com/watch?v=E1pQ_on2Wfs",
+      "fuente": "WealthWise",
+      "categoria": "youtube",
+      "fecha": "2026-11-12T13:53:52+00:00",
+      "extracto": "Connect Higgsfield MCP To Get 3 Days Free: https://higgsfield.ai/s/claude-fable-5-2-yt-wealth-wise007-tUpmtV Anthropic just ...",
+      "vistas": 15381,
+      "miniatura": "https://i.ytimg.com/vi/E1pQ_on2Wfs/hqdefault.jpg"
+    },
+    {
+      "titulo": "Connettiamo Claude a Home Assistant con il server MCP!",
+      "link": "https://www.youtube.com/watch?v=uMIGp5rcjUU",
+      "fuente": "Alessandro Simonitto",
+      "categoria": "youtube",
+      "fecha": "2026-11-12T13:00:21+00:00",
+      "extracto": "Ciao a tutti! Oggi vediamo in sieme come connettere #claude a #homeassistant tramite il nuovo #server #mcp che è stato ...",
+      "vistas": 10638,
+      "miniatura": "https://i.ytimg.com/vi/uMIGp5rcjUU/hqdefault.jpg"
+    },
+    {
+      "titulo": "Everyone’s Letting AI Hack Their TVs… So I Tried It",
+      "link": "https://www.youtube.com/watch?v=aN-65z6bvKk",
+      "fuente": "RelfWolf",
+      "categoria": "youtube",
+      "fecha": "2026-11-15T20:09:26+00:00",
+      "extracto": "Everyone's using AI to hack and reverse-engineer their devices: breaking them open, removing unwanted restrictions and ...",
+      "vistas": 879365,
+      "miniatura": "https://i.ytimg.com/vi/aN-65z6bvKk/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Make Money Clipping GTA 6 Videos (Turned Into A Free Skill)",
+      "link": "https://www.youtube.com/watch?v=5-SDYLlGZFw",
+      "fuente": "Jad M.H  | AI Automation",
+      "categoria": "youtube",
+      "fecha": "2026-11-13T14:50:51+00:00",
+      "extracto": "The GTA 6 Clipper (free skill) + setup: https://www.skool.com/nextphase-5790 FinalPhase: ...",
+      "vistas": 360330,
+      "miniatura": "https://i.ytimg.com/vi/5-SDYLlGZFw/hqdefault.jpg"
+    },
+    {
+      "titulo": "Free Claude AI Monetize My YouTube Channel In 7 Days (Full System)",
+      "link": "https://www.youtube.com/watch?v=ZxTudE4T5fw",
+      "fuente": "E'Calm",
+      "categoria": "youtube",
+      "fecha": "2026-11-12T14:29:22+00:00",
+      "extracto": "Can Claude AI and ChatGPT actually help me build and monetize a faceless YouTube channel?",
+      "vistas": 214811,
+      "miniatura": "https://i.ytimg.com/vi/ZxTudE4T5fw/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Makes 3D Animations Easy Now",
+      "link": "https://www.youtube.com/watch?v=ZxaMmG71g8c",
+      "fuente": "Futurepedia",
+      "categoria": "youtube",
+      "fecha": "2026-11-12T19:01:24+00:00",
+      "extracto": "Build 3D Animated Explainer Videos with Claude (37 Ready-Made Styles):* https://clickhubspot.com/777a More from Futurepedia: ...",
+      "vistas": 203155,
+      "miniatura": "https://i.ytimg.com/vi/ZxaMmG71g8c/hqdefault.jpg"
+    },
+    {
+      "titulo": "CLAUDE AI VIDEO EDITING 🔥 Complete Setup and Guide 🚀 How to Edit Videos with Claude #claude",
+      "link": "https://www.youtube.com/watch?v=2f7qW3ICqIY",
+      "fuente": "Raj Photo Editing and Much More",
+      "categoria": "youtube",
+      "fecha": "2026-11-16T13:59:18+00:00",
+      "extracto": "Can Claude AI actually edit videos for you? In this video, I'll show you how to turn Claude AI into your personal AI Video Editor ...",
+      "vistas": 221808,
+      "miniatura": "https://i.ytimg.com/vi/2f7qW3ICqIY/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude + Blender Is The Best Way To Make AI Videos (Full Course)",
+      "link": "https://www.youtube.com/watch?v=OO6J2w_FBnE",
+      "fuente": "Dan Kieft",
+      "categoria": "youtube",
+      "fecha": "2026-11-16T16:33:20+00:00",
+      "extracto": "Claude + Blender Is The Best Way To Make AI Videos (Full Course) Black Friday Deal on the MCP You Need ...",
+      "vistas": 208915,
+      "miniatura": "https://i.ytimg.com/vi/OO6J2w_FBnE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Invited to fix prices, Claude wrote I can t and won t. Its plan: refuse, then do it anyway.",
+      "link": "https://www.youtube.com/watch?v=UwdZdMD-gpY",
+      "fuente": "Unprompted",
+      "categoria": "youtube",
+      "fecha": "2026-11-15T01:00:17+00:00",
+      "extracto": "Andon Labs runs Vending-Bench Arena: several AIs each operate a vending machine in the same simulated market, they can ...",
+      "vistas": 157422,
+      "miniatura": "https://i.ytimg.com/vi/UwdZdMD-gpY/hqdefault.jpg"
     }
   ]
 }

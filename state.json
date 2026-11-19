@@ -1,13 +1,5 @@
 {
   "vistos": [
-    "66acf5f4dcf1d0c4",
-    "33655b9e493120bf",
-    "221559bd07c961f7",
-    "8f9af50118cc3651",
-    "ed5d856a6e27248c",
-    "5264ab4edb710916",
-    "fe77f58e775924c0",
-    "b25fe08427ae8fa1",
     "9150e8c6ffadd1e1",
     "01f7bf46f3b01f54",
     "c8f9e16aa274e25a",
@@ -1999,77 +1991,17 @@
     "c813785eff1d4e9b",
     "73270be8d65af6e5",
     "8bd2150c4a4a0260",
-    "0a34b08ab32d08c9"
+    "0a34b08ab32d08c9",
+    "ad3d074daf3e5746",
+    "4bc46d8d349c9239",
+    "93bae4674854aeed",
+    "44ad8b2b990a049e",
+    "be5c23054e87664d",
+    "b76734e78db4ea06",
+    "4375b00a43ce4c8e",
+    "f0a5788f7c0a5dd1"
   ],
   "archivo": [
-    {
-      "titulo": "Friday Work",
-      "link": "https://www.producthunt.com/products/friday-work",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-11-01T22:55:35+00:00",
-      "extracto": "When Claude hits its limit, your task keeps going Discussion | Link"
-    },
-    {
-      "titulo": "Twilio Q3 FY 2026: Voice AI Drives Higher-Value Software Demand - The Futurum Group",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVkxHRG00RktMOEZxRHhyX0N5TUFSRUFHclNvZ25tang2WEdTQk5KWmZ3RmZnTHdQRXE2ZHFhNWdnVmxfTDRmRFdKVm4wYXE2NWNncmZfeW8zVzV6RTBoZVhuWTVQUTVTLWV5V3piVDhMTEdlNWJJM2R2OUJQbFpOZjFIbHZHRHBydGdsMTlYcWJNZjVBbmQzNFpvTl9Udw?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-11-02T14:18:32+00:00",
-      "extracto": "Twilio Q3 FY 2026: Voice AI Drives Higher-Value Software Demand The Futurum Group"
-    },
-    {
-      "titulo": "Dash® by Relatient Earns 2026 Healthcare Innovation Impact Award for Voice AI That Resolves Patient Calls Autonomously - 01net",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSl9tazNrZ3ByMVNBOW5sSUV2ZzhzYW10cU1JX0E5YTlVeU9JclF4Vk9FNzZpSlRuRXZNMGhmLWlFdlRjVW9taVpwZ1hQUGg3TmJCQkhPVlR1NDNlSlNveDFBYXpXajRoWm9ST2JTSnlPYzlENnFmTmpTb1ByQVktWEJqMzJIQ01PLTJoQlV2N1hEZzk5ZlVDZ0NpUXE1U0ZFSzB2RVU5eVRzNjUtazFROFZvalhmVHI2ODFWRlhXQ0xVbW5PWERqSVRvTXFqWmpyQ1RLNGRn?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-11-02T16:15:00+00:00",
-      "extracto": "Dash® by Relatient Earns 2026 Healthcare Innovation Impact Award for Voice AI That Resolves Patient Calls Autonomously 01net"
-    },
-    {
-      "titulo": "Deepgram Acquires Daily And Pipecat To Build Open Production-Ready Voice AI Platform - Pulse 2.0",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTDRFd2RrWmZTVF83emZCMk4wTmk1LVloOUphbjdhQVZLdlFnN0FreG1zLTczLTF4SklGendFcVdlT0ZSUE5TSi1zNTRPM1hOY204M3A1SktZYjJGUUlaUGt1VWl4bGFDQ1pIUXFZQ3dHbHlJMTdsVlBVX25hdnhBQzhiODhIbVRRTUxsZVJaSVBnQkUtVGktYXlJXzJDWFNCQ1ZHSE5MOA?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-11-02T02:02:35+00:00",
-      "extracto": "Deepgram Acquires Daily And Pipecat To Build Open Production-Ready Voice AI Platform Pulse 2.0"
-    },
-    {
-      "titulo": "Eskimoz Introduces an Integrated Approach to SEO, AI Search Visibility and Digital Acquisition - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORE16ZlNIWlRSSURYVWZMSjdfaC1IYk5GTjIxQ1pNalV3cnFQb2N2SHhuSGcyaTdRQ00xOVVTNklnX1hYVHlKM0xWN1VuYWVUbnIyRjFKVXdGby1obnhhcTRLaUpGTzVKWWJfeENPSUQydmVhYmM5SE5WbkNyNDBCblJSV3BMQmZ1R1NadnNpeHFjRkZTaE8wZC1VaDQzdTlxa0JScmJ0OE5BUzYtdTFZ?oc=5",
-      "fuente": "GN — AEO / GEO / AI search",
-      "categoria": "dxw",
-      "fecha": "2026-11-01T12:06:00+00:00",
-      "extracto": "Eskimoz Introduces an Integrated Approach to SEO, AI Search Visibility and Digital Acquisition Yahoo Finance"
-    },
-    {
-      "titulo": "InnovAit AI Publishes Agentic Search Guide for Enterprise CMOs - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbkl2MURCWnFFc3hhNXdwcFNCMlk5U29MbUhxV1p0YTlIMjB1Rnc2dk1BeGxFOXBKWUFLLVVNOWJ1R1REdGlzSmppT1NtOTljYThhLWgwYXpnTjlNd2IzdnlvNEgtMTZoYnZCMWN6T1NENURsNWJ2b19BNkRYazBwOWZBLV9JRDdjUWdIMUZvekgyMnlTdGhSYUN4dWhINjVSc3F2SlBkenZGbGR5a25PRHhFeUZqY28?oc=5",
-      "fuente": "GN — AEO / GEO / AI search",
-      "categoria": "dxw",
-      "fecha": "2026-11-02T19:28:11+00:00",
-      "extracto": "InnovAit AI Publishes Agentic Search Guide for Enterprise CMOs TradingView"
-    },
-    {
-      "titulo": "AI taking over Humanity | ChatGPT, Gemini, Claude",
-      "link": "https://www.youtube.com/watch?v=Ia09PrgoCxo",
-      "fuente": "GelNox",
-      "categoria": "youtube",
-      "fecha": "2026-10-28T02:42:53+00:00",
-      "extracto": "Join GelNox Today https://www.youtube.com/gelnox/join #meme #memes #gelnox #funnymemes meme memes funny memes ...",
-      "vistas": 2565944,
-      "miniatura": "https://i.ytimg.com/vi/Ia09PrgoCxo/hqdefault.jpg"
-    },
-    {
-      "titulo": "AI’s First Brain Surgery #ai #aimedicine #aidoctor #claude #aifordoctors",
-      "link": "https://www.youtube.com/watch?v=dZUatzFQ79M",
-      "fuente": "Mayankshah",
-      "categoria": "youtube",
-      "fecha": "2026-10-31T03:13:48+00:00",
-      "extracto": "On Oct 28, an Oxford PhD and startup founder claimed an AI agent planned and performed brain surgery on a living mouse: it ...",
-      "vistas": 586190,
-      "miniatura": "https://i.ytimg.com/vi/dZUatzFQ79M/hqdefault.jpg"
-    },
     {
       "titulo": "I Told Claude to Make it better 100 Times (It Went Too Far)",
       "link": "https://www.youtube.com/watch?v=DByAR5Su1Yw",
@@ -14311,6 +14243,86 @@
       "categoria": "dxw",
       "fecha": "2026-11-18T21:26:47+00:00",
       "extracto": "12 Best AI Search Visibility Tools for Shopify and DTC Brands Yonkers Times"
+    },
+    {
+      "titulo": "I Built A Business From Scratch Only Following Claude’s Advice",
+      "link": "https://www.youtube.com/watch?v=ZzDRSxx3zgY",
+      "fuente": "Mark Tilbury",
+      "categoria": "youtube",
+      "fecha": "2026-11-16T12:59:43+00:00",
+      "extracto": "Get up to 65% OFF Higgsfield annual plans this Black Friday: https://higgsfield.ai/s/uXAzZh Black Friday offers available until ...",
+      "vistas": 999646,
+      "miniatura": "https://i.ytimg.com/vi/ZzDRSxx3zgY/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Create Launch Videos in Claude With the Clueso MCP",
+      "link": "https://www.youtube.com/watch?v=n0mk0CkapVI",
+      "fuente": "Dan - Smart Tutorials",
+      "categoria": "youtube",
+      "fecha": "2026-11-15T18:38:53+00:00",
+      "extracto": "(Discount Link) Try Clueso Now: https://tinyurl.com/ttClaudeCluesoMCP Use code *DANXCLUESO20* to get 20% off all Clueso ...",
+      "vistas": 10918,
+      "miniatura": "https://i.ytimg.com/vi/n0mk0CkapVI/hqdefault.jpg"
+    },
+    {
+      "titulo": "I Built an Entire Brand With Claude AI Using Just One Photo",
+      "link": "https://www.youtube.com/watch?v=DO3Wxiiim_M",
+      "fuente": "Digital Prime Profit",
+      "categoria": "youtube",
+      "fecha": "2026-11-13T06:19:58+00:00",
+      "extracto": "Build an Entire Brand From One Photo with Claude Fable 5.2 & Higgsfield MCP: ...",
+      "vistas": 3738,
+      "miniatura": "https://i.ytimg.com/vi/DO3Wxiiim_M/hqdefault.jpg"
+    },
+    {
+      "titulo": "本週 AI 23 則更新｜Claude、Grok 進會議室！Fable 5.2、Gemini 4、ChatGPT Wallet｜11/15",
+      "link": "https://www.youtube.com/watch?v=17SEZ-tUoW0",
+      "fuente": "Jerry_AI 工具X實作X新知",
+      "categoria": "youtube",
+      "fecha": "2026-11-15T13:39:17+00:00",
+      "extracto": "AI 開始加入會議、邊聽邊做文件；新模型同一週接連上線，AI 代理也開始在你核准後代為付款。這集用約12 分鐘， ...",
+      "vistas": 7383,
+      "miniatura": "https://i.ytimg.com/vi/17SEZ-tUoW0/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Connect Claude AI to Blender (Easy MCP Setup Guide)",
+      "link": "https://www.youtube.com/watch?v=t4Z4UOQLKnY",
+      "fuente": "Tutorialy",
+      "categoria": "youtube",
+      "fecha": "2026-11-13T01:45:27+00:00",
+      "extracto": "Learn how to connect Claude AI to Blender using the Blender MCP connector so you can control Blender, create 3D models, and ...",
+      "vistas": 5103,
+      "miniatura": "https://i.ytimg.com/vi/t4Z4UOQLKnY/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Connect Claude to Roblox Studio",
+      "link": "https://www.youtube.com/watch?v=diZ4YZ8kx04",
+      "fuente": "Tech Info",
+      "categoria": "youtube",
+      "fecha": "2026-11-14T11:59:00+00:00",
+      "extracto": "",
+      "vistas": 5090,
+      "miniatura": "https://i.ytimg.com/vi/diZ4YZ8kx04/hqdefault.jpg"
+    },
+    {
+      "titulo": "Five brand new ways to use Claude at work",
+      "link": "https://www.youtube.com/watch?v=t2Zo3YAJdj4",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-11-18T18:39:05+00:00",
+      "extracto": "Claude's family of tools helps teams work at the speed of thought. Add Claude to your call with Claude Meetings, and ask it out ...",
+      "vistas": 287917,
+      "miniatura": "https://i.ytimg.com/vi/t2Zo3YAJdj4/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Make Studio-Quality AI Animation (Full Guide)",
+      "link": "https://www.youtube.com/watch?v=_X7KQVwsn9U",
+      "fuente": "Jack Vs. AI",
+      "categoria": "youtube",
+      "fecha": "2026-11-15T14:30:37+00:00",
+      "extracto": "Create your own AI animated films with OpenArt: https://tolt.link/jvsai Download my FREE AI Animation Skill: ...",
+      "vistas": 316243,
+      "miniatura": "https://i.ytimg.com/vi/_X7KQVwsn9U/hqdefault.jpg"
     }
   ]
 }

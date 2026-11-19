@@ -528,6 +528,7 @@ def main():
     check_mode = "--check" in sys.argv
     solo_youtube = "--solo-youtube" in sys.argv
     sembrar_youtube = "--sembrar-youtube" in sys.argv
+    solo_ejemplo = "--ejemplo" in sys.argv  # publica un unico item (prueba de formato)
 
     config_yml = cargar_feeds()
     config = config_yml.get("config", {})
@@ -614,6 +615,9 @@ def main():
         categorias_diarias = [c for c in categorias if c != "youtube" and categorias[c].get("publicar_diario", False)]
         limite_publicacion = 3 if primera_ejecucion else max_por_corrida
         a_publicar = distribuir_por_categoria(candidatos, categorias_diarias, limite_publicacion)
+
+    if solo_ejemplo:
+        a_publicar = a_publicar[:1]
 
     if dry_run:
         total_candidatos = len(candidatos_youtube) if (solo_youtube or sembrar_youtube) else len(candidatos)

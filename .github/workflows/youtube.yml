@@ -8,6 +8,11 @@ on:
     - cron: "30 20 * * 1-5"
     - cron: "30 21 * * 1-5"
   workflow_dispatch:
+    inputs:
+      ejemplo:
+        description: "Solo prueba: republicar 1 video ya archivado (el de mas vistas) con resumen de Gemini"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -58,7 +63,13 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
-        run: python bot.py --solo-youtube
+          EJEMPLO: ${{ inputs.ejemplo }}
+        run: |
+          if [ "$EJEMPLO" = "true" ]; then
+            python bot.py --sembrar-youtube --ejemplo
+          else
+            python bot.py --solo-youtube
+          fi
 
       - name: Commit y push del estado
         if: steps.hora.outputs.correr == 'true'

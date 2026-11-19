@@ -396,6 +396,10 @@ def resumir_con_gemini(titulo, extracto, api_key, modelo):
                     print(f"  [gemini] usando '{actual}'")
                 return texto
             motivo = f"HTTP {resp.status_code}"
+            try:
+                motivo += ": " + resp.json().get("error", {}).get("message", "")[:150]
+            except Exception:
+                pass
         except requests.exceptions.Timeout:
             motivo = "tardo demasiado"
         except Exception as e:

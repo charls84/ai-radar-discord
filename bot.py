@@ -129,6 +129,20 @@ def fetch_feed(url):
     return feedparser.parse(resp.content)
 
 
+def _youtube_error(resp):
+    """Lanza un error con el motivo que devuelve Google (sin incluir la clave)."""
+    if resp.ok:
+        return
+    motivo = ""
+    try:
+        err = resp.json().get("error", {})
+        razones = [e.get("reason", "") for e in err.get("errors", [])]
+        motivo = f"{err.get('message', '')} [{', '.join(r for r in razones if r)}]"
+    except Exception:
+        motivo = resp.text[:200]
+    raise RuntimeError(f"HTTP {resp.status_code}: {motivo}")
+
+
 def buscar_videos_youtube(query, api_key, dias, max_resultados):
     publicado_despues = (datetime.now(timezone.utc) - timedelta(days=dias)).strftime("%Y-%m-%dT%H:%M:%SZ")
     params = {
@@ -142,7 +156,7 @@ def buscar_videos_youtube(query, api_key, dias, max_resultados):
         "key": api_key,
     }
     resp = requests.get(YOUTUBE_SEARCH_URL, params=params, timeout=15)
-    resp.raise_for_status()
+    _youtube_error(resp)
     return resp.json().get("items", [])
 
 
@@ -151,7 +165,7 @@ def obtener_detalles_youtube(video_ids, api_key):
         return {}
     params = {"part": "statistics,snippet", "id": ",".join(video_ids), "key": api_key}
     resp = requests.get(YOUTUBE_VIDEOS_URL, params=params, timeout=15)
-    resp.raise_for_status()
+    _youtube_error(resp)
     detalles = {}
     for item in resp.json().get("items", []):
         try:

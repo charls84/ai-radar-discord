@@ -362,11 +362,16 @@ def elegir_modelo_flash(api_key):
     return candidatos[0][3]
 
 
-def _llamar_gemini(modelo, api_key, body):
-    resp = requests.post(
-        f"{GEMINI_BASE}/models/{modelo}:generateContent", params={"key": api_key}, json=body, timeout=30
-    )
-    return resp
+def _llamar_gemini(modelo, api_key, body, intentos=2):
+    for intento in range(intentos):
+        try:
+            return requests.post(
+                f"{GEMINI_BASE}/models/{modelo}:generateContent", params={"key": api_key}, json=body, timeout=120
+            )
+        except requests.exceptions.Timeout:
+            if intento == intentos - 1:
+                raise
+            print(f"  [gemini] '{modelo}' tardo demasiado, reintentando...")
 
 
 def resumir_con_gemini(titulo, extracto, api_key, modelo):

@@ -2,7 +2,11 @@ name: YouTube Viral -> Discord/Slack
 
 on:
   schedule:
-    - cron: "10 13 * * 1-5" # 10 min despues de radar.yml, para no chocar al commitear state.json
+    # 16:30 hora de Miami (America/New_York), lunes a viernes.
+    # GitHub usa UTC: 20:30 UTC en horario de verano (EDT) y 21:30 UTC en invierno (EST).
+    # El paso "Revisar hora de Miami" deja correr solo la que coincide.
+    - cron: "30 20 * * 1-5"
+    - cron: "30 21 * * 1-5"
   workflow_dispatch:
 
 permissions:
@@ -16,19 +20,38 @@ jobs:
   youtube:
     runs-on: ubuntu-latest
     steps:
+      - name: Revisar hora de Miami
+        id: hora
+        env:
+          CRON: ${{ github.event.schedule }}
+        run: |
+          # Desfase actual de Nueva York: -0400 (verano) o -0500 (invierno).
+          desfase=$(TZ=America/New_York date +%z)
+          if [ "$desfase" = "-0400" ]; then esperado="30 20 * * 1-5"; else esperado="30 21 * * 1-5"; fi
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$CRON" != "$esperado" ]; then
+            echo "Cron '$CRON' no corresponde a las 16:30 de Miami hoy (desfase $desfase). Se omite."
+            echo "correr=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "correr=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Checkout
+        if: steps.hora.outputs.correr == 'true'
         uses: actions/checkout@v4
 
       - name: Setup Python
+        if: steps.hora.outputs.correr == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
 
       - name: Install dependencies
+        if: steps.hora.outputs.correr == 'true'
         run: pip install -r requirements.txt
 
       - name: Run YouTube viral
+        if: steps.hora.outputs.correr == 'true'
         env:
           WEBHOOK_YOUTUBE_AI: ${{ secrets.WEBHOOK_YOUTUBE_AI }}
           SLACK_WEBHOOK_YOUTUBE_AI: ${{ secrets.SLACK_WEBHOOK_YOUTUBE_AI }}
@@ -38,6 +61,7 @@ jobs:
         run: python bot.py --solo-youtube
 
       - name: Commit y push del estado
+        if: steps.hora.outputs.correr == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

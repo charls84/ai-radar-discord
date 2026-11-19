@@ -329,22 +329,65 @@ def distribuir_por_categoria(candidatos, categorias_diarias, limite):
     return seleccion
 
 
+GEMINI_BASE = "https://generativelanguage.googleapis.com/v1beta"
+_GEMINI_EXCLUIR = ("lite", "image", "tts", "audio", "live", "embedding", "thinking", "exp", "learnlm")
+_modelo_gemini_resuelto = {}
+
+
+def _version_modelo(nombre):
+    return tuple(int(n) for n in re.findall(r"\d+", nombre.split("-flash")[0]))
+
+
+def elegir_modelo_flash(api_key):
+    """Devuelve el modelo Flash mas reciente disponible para la clave (estable antes que preview)."""
+    try:
+        resp = requests.get(f"{GEMINI_BASE}/models", params={"key": api_key, "pageSize": 1000}, timeout=15)
+        resp.raise_for_status()
+        modelos = resp.json().get("models", [])
+    except Exception as e:
+        print(f"  [gemini] no se pudo listar modelos: {e}")
+        return None
+    candidatos = []
+    for m in modelos:
+        nombre = m.get("name", "").replace("models/", "")
+        if "flash" not in nombre or "generateContent" not in m.get("supportedGenerationMethods", []):
+            continue
+        if any(x in nombre for x in _GEMINI_EXCLUIR):
+            continue
+        estable = "preview" not in nombre and not re.search(r"-\d{3,}$", nombre)
+        candidatos.append((estable, _version_modelo(nombre), "latest" not in nombre, nombre))
+    if not candidatos:
+        return None
+    candidatos.sort(reverse=True)
+    return candidatos[0][3]
+
+
+def _llamar_gemini(modelo, api_key, body):
+    resp = requests.post(
+        f"{GEMINI_BASE}/models/{modelo}:generateContent", params={"key": api_key}, json=body, timeout=30
+    )
+    return resp
+
+
 def resumir_con_gemini(titulo, extracto, api_key, modelo):
     if not api_key:
         return extracto[:350]
-    url = (
-        f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
-        f"?key={api_key}"
-    )
     prompt = f"{PROMPT_RESUMEN}\n\nTitulo: {titulo}\nContenido: {extracto}"
     body = {"contents": [{"parts": [{"text": prompt}]}]}
+    modelo = _modelo_gemini_resuelto.get(modelo, modelo)
     try:
-        resp = requests.post(url, json=body, timeout=30)
+        resp = _llamar_gemini(modelo, api_key, body)
+        if resp.status_code in (400, 404):
+            nuevo = elegir_modelo_flash(api_key)
+            if nuevo and nuevo != modelo:
+                print(f"  [gemini] modelo '{modelo}' no disponible, usando '{nuevo}'")
+                _modelo_gemini_resuelto[modelo] = nuevo
+                resp = _llamar_gemini(nuevo, api_key, body)
         resp.raise_for_status()
         data = resp.json()
         return data["candidates"][0]["content"]["parts"][0]["text"].strip()
     except Exception as e:
-        print(f"  [gemini] fallo al resumir, usando extracto original: {e}")
+        print(f"  [gemini] fallo al resumir, usando extracto original: {str(e).split('?key=')[0]}")
         return extracto[:350]
 
 

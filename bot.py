@@ -338,15 +338,15 @@ def _version_modelo(nombre):
     return tuple(int(n) for n in re.findall(r"\d+", nombre.split("-flash")[0]))
 
 
-def elegir_modelo_flash(api_key):
-    """Devuelve el modelo Flash mas reciente disponible para la clave (estable antes que preview)."""
+def modelos_flash(api_key):
+    """Modelos Flash disponibles para la clave, del mas reciente al mas antiguo (estables primero)."""
     try:
         resp = requests.get(f"{GEMINI_BASE}/models", params={"key": api_key, "pageSize": 1000}, timeout=15)
         resp.raise_for_status()
         modelos = resp.json().get("models", [])
     except Exception as e:
         print(f"  [gemini] no se pudo listar modelos: {e}")
-        return None
+        return []
     candidatos = []
     for m in modelos:
         nombre = m.get("name", "").replace("models/", "")
@@ -356,44 +356,56 @@ def elegir_modelo_flash(api_key):
             continue
         estable = "preview" not in nombre and not re.search(r"-\d{3,}$", nombre)
         candidatos.append((estable, _version_modelo(nombre), "latest" not in nombre, nombre))
-    if not candidatos:
-        return None
     candidatos.sort(reverse=True)
-    return candidatos[0][3]
+    return [c[3] for c in candidatos]
 
 
-def _llamar_gemini(modelo, api_key, body, intentos=2):
-    for intento in range(intentos):
-        try:
-            return requests.post(
-                f"{GEMINI_BASE}/models/{modelo}:generateContent", params={"key": api_key}, json=body, timeout=120
-            )
-        except requests.exceptions.Timeout:
-            if intento == intentos - 1:
-                raise
-            print(f"  [gemini] '{modelo}' tardo demasiado, reintentando...")
+def elegir_modelo_flash(api_key):
+    lista = modelos_flash(api_key)
+    return lista[0] if lista else None
+
+
+def _llamar_gemini(modelo, api_key, body):
+    return requests.post(
+        f"{GEMINI_BASE}/models/{modelo}:generateContent", params={"key": api_key}, json=body, timeout=90
+    )
+
+
+_cola_modelos = {}  # modelo configurado -> lista de modelos a probar, en orden
 
 
 def resumir_con_gemini(titulo, extracto, api_key, modelo):
+    """Resume con Gemini. Si el modelo no existe, falla o tarda, prueba los siguientes modelos Flash."""
     if not api_key:
         return extracto[:350]
     prompt = f"{PROMPT_RESUMEN}\n\nTitulo: {titulo}\nContenido: {extracto}"
     body = {"contents": [{"parts": [{"text": prompt}]}]}
-    modelo = _modelo_gemini_resuelto.get(modelo, modelo)
-    try:
-        resp = _llamar_gemini(modelo, api_key, body)
-        if resp.status_code in (400, 404):
-            nuevo = elegir_modelo_flash(api_key)
-            if nuevo and nuevo != modelo:
-                print(f"  [gemini] modelo '{modelo}' no disponible, usando '{nuevo}'")
-                _modelo_gemini_resuelto[modelo] = nuevo
-                resp = _llamar_gemini(nuevo, api_key, body)
-        resp.raise_for_status()
-        data = resp.json()
-        return data["candidates"][0]["content"]["parts"][0]["text"].strip()
-    except Exception as e:
-        print(f"  [gemini] fallo al resumir, usando extracto original: {str(e).split('?key=')[0]}")
-        return extracto[:350]
+    if modelo not in _cola_modelos:
+        _cola_modelos[modelo] = [modelo]
+    cola = _cola_modelos[modelo]
+    i = 0
+    while i < len(cola) and i < 4:
+        actual = cola[i]
+        try:
+            resp = _llamar_gemini(actual, api_key, body)
+            if resp.status_code == 200:
+                texto = resp.json()["candidates"][0]["content"]["parts"][0]["text"].strip()
+                if i > 0:
+                    # El que funciono pasa al frente para los siguientes videos.
+                    cola.insert(0, cola.pop(i))
+                    print(f"  [gemini] usando '{actual}'")
+                return texto
+            motivo = f"HTTP {resp.status_code}"
+        except requests.exceptions.Timeout:
+            motivo = "tardo demasiado"
+        except Exception as e:
+            motivo = str(e).split("?key=")[0][:150]
+        print(f"  [gemini] '{actual}' fallo ({motivo})")
+        if len(cola) == 1:
+            cola.extend(m for m in modelos_flash(api_key) if m not in cola)
+        i += 1
+    print("  [gemini] ningun modelo respondio, usando extracto original")
+    return extracto[:350]
 
 
 def publicar_discord(webhook_url, embed, max_intentos=4):

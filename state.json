@@ -1,9 +1,5 @@
 {
   "vistos": [
-    "9150e8c6ffadd1e1",
-    "01f7bf46f3b01f54",
-    "c8f9e16aa274e25a",
-    "de37056999b342b2",
     "5f2e9a8b5b8c613c",
     "7c4ef2659bed7272",
     "f5f7c46710f97956",
@@ -1999,49 +1995,13 @@
     "be5c23054e87664d",
     "b76734e78db4ea06",
     "4375b00a43ce4c8e",
-    "f0a5788f7c0a5dd1"
+    "f0a5788f7c0a5dd1",
+    "92822b65b913a91f",
+    "c4a872b82d23efea",
+    "e06b4d407e57209e",
+    "733973ad2ee9c4b7"
   ],
   "archivo": [
-    {
-      "titulo": "I Told Claude to Make it better 100 Times (It Went Too Far)",
-      "link": "https://www.youtube.com/watch?v=DByAR5Su1Yw",
-      "fuente": "Nate Herk | AI Automation",
-      "categoria": "youtube",
-      "fecha": "2026-10-30T00:45:46+00:00",
-      "extracto": "FREE Scrollcraft Website Design Skill: ...",
-      "vistas": 446645,
-      "miniatura": "https://i.ytimg.com/vi/DByAR5Su1Yw/hqdefault.jpg"
-    },
-    {
-      "titulo": "AI vs Software Engineers 😂 | ChatGPT Claude Taking Over? #Shorts",
-      "link": "https://www.youtube.com/watch?v=ZWh7Zze88T0",
-      "fuente": "SofticEra - Institute & Software House",
-      "categoria": "youtube",
-      "fecha": "2026-10-27T10:01:48+00:00",
-      "extracto": "Software Engineers vs AI — Who's Winning? ChatGPT and Claude are changing the way developers work. But what happens ...",
-      "vistas": 351797,
-      "miniatura": "https://i.ytimg.com/vi/ZWh7Zze88T0/hqdefault.jpg"
-    },
-    {
-      "titulo": "Claude s new mobile app updates are here",
-      "link": "https://www.youtube.com/watch?v=SkpwzfR4A1E",
-      "fuente": "Claude",
-      "categoria": "youtube",
-      "fecha": "2026-10-29T18:02:37+00:00",
-      "extracto": "A few upgrades to the Claude mobile apps this week. • On iPad and iPhone Duo, what Claude makes opens beside the chat • You ...",
-      "vistas": 359815,
-      "miniatura": "https://i.ytimg.com/vi/SkpwzfR4A1E/hqdefault.jpg"
-    },
-    {
-      "titulo": "Claude Found 12,154 Hidden Photos on This Android Phone?! #ClaudeCode #Android #PhonePrivacy #Shorts",
-      "link": "https://www.youtube.com/watch?v=ZBWK2mtYYJY",
-      "fuente": "Custom Adventurist",
-      "categoria": "youtube",
-      "fecha": "2026-10-31T00:49:18+00:00",
-      "extracto": "Did Claude Code find 12154 hidden photos on an Android phone? A viral post claims a flashlight app secretly saved front-camera ...",
-      "vistas": 461873,
-      "miniatura": "https://i.ytimg.com/vi/ZBWK2mtYYJY/hqdefault.jpg"
-    },
     {
       "titulo": "I Spent 100 Hours Making a Game With Claude (this is cooked)",
       "link": "https://www.youtube.com/watch?v=tpbXZyRxWNY",
@@ -14323,6 +14283,46 @@
       "extracto": "Create your own AI animated films with OpenArt: https://tolt.link/jvsai Download my FREE AI Animation Skill: ...",
       "vistas": 316243,
       "miniatura": "https://i.ytimg.com/vi/_X7KQVwsn9U/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude at 99% Context Window 💀😭#claudecode #claude #anthropic #ai #vibecoding #shorts",
+      "link": "https://www.youtube.com/watch?v=_W17yDBrCps",
+      "fuente": "Understanding AI HQ",
+      "categoria": "youtube",
+      "fecha": "2026-11-18T11:31:57+00:00",
+      "extracto": "Claude at 99% of its context window when you ask if it's still locked in You've been building a project with Claude Code for ...",
+      "vistas": 205973,
+      "miniatura": "https://i.ytimg.com/vi/_W17yDBrCps/hqdefault.jpg"
+    },
+    {
+      "titulo": "Adobe MCP: এবার ChatGPT/Claude দিয়েই Photoshop, Premiere Pro-তে কাজ করা যাবে 🔥",
+      "link": "https://www.youtube.com/watch?v=5nDbd9jmtA8",
+      "fuente": "Amran H. Fahim",
+      "categoria": "youtube",
+      "fecha": "2026-11-15T13:50:24+00:00",
+      "extracto": "Adobe বদলে দিতে যাচ্ছে AI দিয়ে কাজ করার পুরো পদ্ধতি! Adobe-এর নতুন MCP ...",
+      "vistas": 9444,
+      "miniatura": "https://i.ytimg.com/vi/5nDbd9jmtA8/hqdefault.jpg"
+    },
+    {
+      "titulo": "【無料のスキル配布あり】ClaudeでAIショートドラマを作る5ステップ｜企画から編集まで実演（Pollo MCP）",
+      "link": "https://www.youtube.com/watch?v=MOTZpcM78M8",
+      "fuente": "ハム先生のAI教室【AI動画の実務活用】",
+      "categoria": "youtube",
+      "fecha": "2026-11-14T09:00:12+00:00",
+      "extracto": "【割引あり】Pollo AIはこちら https://pollo.ai/go/j5VmoEy ⇨ 割引コード「ham20」で20%オフ ✓【無料】AIドラマのスキルと ...",
+      "vistas": 5699,
+      "miniatura": "https://i.ytimg.com/vi/MOTZpcM78M8/hqdefault.jpg"
+    },
+    {
+      "titulo": "5 ans de travail remplacé par une IA ?",
+      "link": "https://www.youtube.com/watch?v=j5aWyxjEYnU",
+      "fuente": "Enzo Emakerz",
+      "categoria": "youtube",
+      "fecha": "2026-11-14T05:13:48+00:00",
+      "extracto": "J'ai demandé à une lA de faire mon métier. Une minute pour expliquer à Claude Fable 5.2 ce que je voulais, et une heure plus ...",
+      "vistas": 254031,
+      "miniatura": "https://i.ytimg.com/vi/j5aWyxjEYnU/hqdefault.jpg"
     }
   ]
 }

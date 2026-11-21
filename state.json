@@ -1,6 +1,5 @@
 {
   "vistos": [
-    "2e89cffec33d4e2d",
     "d50f0f5dfb3cdbcc",
     "15246865ed9b772b",
     "36bc1aa1de6057ec",
@@ -1999,17 +1998,10 @@
     "a6a9f925c4fa2ebf",
     "aba28241737e820f",
     "ce33b82e75003788",
-    "8669c39bcb4b1f61"
+    "8669c39bcb4b1f61",
+    "d9b1560ed3a00d62"
   ],
   "archivo": [
-    {
-      "titulo": "Testera",
-      "link": "https://www.producthunt.com/products/testera-3",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-11-02T13:52:38+00:00",
-      "extracto": "AI-driven API testing Discussion | Link"
-    },
     {
       "titulo": "CMO report: 7 lessons on AI growth - Think with Google US - Google Business Profile",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWmhObkktU3JHdEI4WFU0alpqSWpKV3dLTkJ4bkpiT21RMkdJSkZWTGhsdFdySlg4WTZIWERWNzU0T2JWOW41dXVsMjBRbDYzNHg2a2NyRkQ0aEhNTWhhanpLNl9CckFLaWlmTGQ0V01SWkhraGU2aVJ1NFZvejNIVzFQQy0zeENrcllESVNnNF9nbVl3Umk0cV9LLXhfd085UndpVW5MTUVxRTZkSER3bVN5a1Q3b05fWWw5TVJ0eU9JY3lPV0JobHVCazE3dVlXbERqOHpfMTU3Zw?oc=5",
@@ -14305,6 +14297,16 @@
       "extracto": "Adobe Premiere Pro Latest Update 2026! In this video, I break down the new AI features that every video editor should know ...",
       "vistas": 5135,
       "miniatura": "https://i.ytimg.com/vi/MBeiPmp6-2M/hqdefault.jpg"
+    },
+    {
+      "titulo": "Faire des pubs avec l IA : Claude crée TOUTE ta campagne à partir d 1 photo (Higgsfield MCP)",
+      "link": "https://www.youtube.com/watch?v=uWqhe_-zLAA",
+      "fuente": "Système Gagnant",
+      "categoria": "youtube",
+      "fecha": "2026-11-14T12:24:29+00:00",
+      "extracto": "En connectant Higgsfield MCP à Claude, tu as 3 jours gratuits avec un accès illimité aux meilleurs modèles ...",
+      "vistas": 14740,
+      "miniatura": "https://i.ytimg.com/vi/uWqhe_-zLAA/hqdefault.jpg"
     }
   ]
 }

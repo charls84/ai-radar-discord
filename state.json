@@ -1,33 +1,5 @@
 {
   "vistos": [
-    "7534584bd8ef7d7f",
-    "d26796f2d1f234f7",
-    "ec2c529c8a706ef6",
-    "f9cfe2d745465f1b",
-    "95ff043a27dc1284",
-    "01aef0d2f976d959",
-    "8fdd6a5d2137a408",
-    "d7bd7c1e685c0dfb",
-    "f21127a82f593eb0",
-    "5fc9899acd55330e",
-    "f9f8186c37561458",
-    "a73dee93208b9f35",
-    "df5399c7f9d2448e",
-    "28c7ee44d88bdbf2",
-    "39217bafd159845d",
-    "f3d1448df6a6df02",
-    "ad1a0b6f01f5a507",
-    "08d82b53d71043d3",
-    "d0c7d5449da94ece",
-    "1ea34ba04923e8e0",
-    "088abfef82a50aba",
-    "4c3da264aa3a873f",
-    "b1581a551bbc528f",
-    "ab5df59450fc24dc",
-    "f02a2aa74e79d89d",
-    "ae6b9eee40feb8dd",
-    "f61e677d50bc3afd",
-    "c52b4cee69ffc817",
     "00f631f70028c18d",
     "f6e32d915662175a",
     "ac6e5e7e50440844",
@@ -1999,253 +1971,37 @@
     "6989d45f1a22fe70",
     "726b001eb61fb0f7",
     "ad9c27939315213b",
-    "b5d9c0c17b66b266"
+    "b5d9c0c17b66b266",
+    "61f255e250381880",
+    "a0a6904b3684cd17",
+    "c8815ef148494446",
+    "1fec1f0c601aec72",
+    "f09a3e69caa5c0af",
+    "4f43968a2ce482aa",
+    "18e394842d5c86e7",
+    "bf3b3b08c373081f",
+    "995b06825b1e9856",
+    "574fbfabfe88f560",
+    "1e3e265d8097f059",
+    "07bad50c66b51ae7",
+    "ddffde979b24dd27",
+    "8bcfcb6a7cd1ab11",
+    "68b61c553599bd6d",
+    "58bfaa012ae9a3a8",
+    "7b12320dda62cde5",
+    "21e716a25731f74e",
+    "bb873be9fe5e7d49",
+    "8f4abaefd795e0b4",
+    "a7346364dfc746d2",
+    "26ae9f73cc9138d2",
+    "4f3fe99c1eb7013e",
+    "5277515a5a5d9e40",
+    "2e7eafc1f187a215",
+    "56bfff6eca3a5b75",
+    "6c219ed7ca05ee4d",
+    "d0c63c37f46e1121"
   ],
   "archivo": [
-    {
-      "titulo": "The four parts of every AI voice agent in India - ET Telecom",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY1dSWkcwM1hQcjdqNk41bE5rTHhEREJYd21pSkhBeHFybTh0YzJkdnBDMnRjVHlxajFORlVZM1NUWk03MUhTUUQ1VVEzNlZQTC1sRUdSZjh2SFBQOEN4cFRjckE4anFwVC1LcmpUZUlNNjlKMEx4QVR6NkVHZHhxVjhQNTdvNVd1cHozbE5wTXdjZkJLdkdYM2JpWUs1ZU90MFNjQnNXdUFZSVBsdTYyN2ZQbDhLYXPSAbwBQVVfeXFMTVp3NEtMTE81Y1pjSHctcl85cnh1R0pVRl8ycUVVa0lSNUtIeThrNU9oa3JVQjlaZUhoS0U4ME5qQWxzR2VpeWQ3eGhXdjBpVDZINWt0TlNvRjV2azlOTGxrdWZCbDNHWkEydERvQ0dOdE9xaS1VSFcyX0RERjRlbGhQWDY1Y21xX1VyQUo3bjlxUmJWZHgyQ1JqQ1h5NU1va0VtekJPVkNUVEUyUE9BamgtS1lHbElsMU9uYWM?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-11-03T10:47:13+00:00",
-      "extracto": "The four parts of every AI voice agent in India ET Telecom"
-    },
-    {
-      "titulo": "Guava Lands $12.5 Million to Tackle Voice AI’s Real-world Growing Pains - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRkt6NVlQc29xS0k3WmhMQ1h0aXh2SmtjU2VfaHVJMUhTZkVxQ2hOVWI4RlJtZzJiYXlDWUVlcmdNamI0bmh1SmRBbVpzaHNuV3c3Mkg1bE1LczRZaG55TzRCZVMzdFgtNUVrWXlueGtvNjVaanRVMkJvNVRJMXJ0VV9tZ201Q2Z4aXpCQmJyUXRUY0xDbGJXRWlhTk0zWlpuN0NrU25DSzNrY196bHFkMVBUa3dFbjllSUZLYlQ1MWJkTnZsekxxbA?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-11-03T14:00:00+00:00",
-      "extracto": "Guava Lands $12.5 Million to Tackle Voice AI’s Real-world Growing Pains Business Wire"
-    },
-    {
-      "titulo": "Contact Center Convergence Is Now an Operating Model - CX Today",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeWRGZm4xT2pYZDBsSF9xRkpKcXY5SVNfT3VpWXRJLW9oM0ZCRUZSRFpMMHNTSC1tVXJRMnZIMFUxZklCVGloOEhIMWQzM0tTWDRHek1ocGpab3JwSU54WWh6VnZ0Y2hzMVZVSk02ZkhXSlJmNHlEQWdRQmlheEF6bkJnbTFMT3phRDVXRG9PN0Q?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-11-04T11:23:57+00:00",
-      "extracto": "Contact Center Convergence Is Now an Operating Model CX Today"
-    },
-    {
-      "titulo": "Musk says Grok Bot's costs are 'unsustainably high,' while OpenAI admits Dots are ‘compute heavy.' - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOc3hsdGF5SGpmX014STA2VXN1V3dBQUZKNTVvMDFwSlRFaTI3a0JIVGdQVzNOS0k1WmtNNi1OemRoaWdOb05wNFR4T191RmRodGVCYnNDcXF2TWpqVUg4MTEtNUR0Y3l6T1lBTnM0djZTLXBNWEp6SEVvbVhqSmxUd0xLeThNMEtYemI1ODFfVWFHODhRY1R6ZmZ5aEhfYVpROWx3cWM1VnI4TlY0U1RFTk82aW9JUDJjVUVNUm80Z2NzWXlIMXBYRXFocV83eF9aSmc4UzQxV1JoQzB2VWI1TmEzT3c5eXpOVjdDRjY0ZW5tYkVhSFpEdkF4Y21fdw?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-11-03T20:01:00+00:00",
-      "extracto": "Musk says Grok Bot's costs are 'unsustainably high,' while OpenAI admits Dots are ‘compute heavy.' Fortune"
-    },
-    {
-      "titulo": "Soniox STT v6 Adds Agent Text Input and Echo Filtering for Voice Agents - MarkTechPost",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdm1wVXFocmxNTUFiSFlaaTFpMkxqWEpzSkJ0OGtscURMQUdXdGZJdzlaWTVDbDk3TWJ6YlZaOWlDWjVLc0x3QVlWLU5ONGxKVXMtZzk4akZDRnNWX3V5QndobjRvVmRNbllKSS1wOU96dXNtSFJkWDVjaTJSbHRYYUx1LU5ncHZLanVoMk0tXzRHdTTSAZMBQVVfeXFMUHZtcFVxaHJsTU1BYkhZWmkxaTJMalhKc0pCdDhrbHFETEFHV3RmSXc5Wlk1Q2w5N01iemJWWjlpQ1o1S3NMd0FZVi1OTjRsSlVzLWc5OGpGQ0ZzVl91eUJ3aG40b1ZkTW5ZSkktcDlPenVzbUhSZFg1Y2kyUmx0WGFMdS1OZ3B2S2p1aDJNLV80R3U0?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-11-03T20:18:22+00:00",
-      "extracto": "Soniox STT v6 Adds Agent Text Input and Echo Filtering for Voice Agents MarkTechPost"
-    },
-    {
-      "titulo": "Angi Leads Home Services into AI Search with Google - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVHNkb0NQZ083NjZ4UGhfaWVLOGF3Q04wUmxIXzZrUWpXWHdXNW9rSXR3bUNyemEweFU2alkybXV6VzhPVm9SNHh6aGc2RUVWY1V3NGd3M0s1ZnhIaVVNc1ItSC13dEEzUVdwZVc0YmdPZS13YTFFTWxFbEZfUnctUWlmQllSa1JOaElieDdJS1hURnZsUUE?oc=5",
-      "fuente": "GN — Home services software",
-      "categoria": "dxw",
-      "fecha": "2026-11-04T17:00:00+00:00",
-      "extracto": "Angi Leads Home Services into AI Search with Google Yahoo Finance"
-    },
-    {
-      "titulo": "Google AI Mode Adds Booking & Quote Links For Home Services - Search Engine Journal",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN2M0ZUhpdnBLNWhjeHFqeUVMY1I1N0JzWk0wS3U5clhReTNteF9tS19SVXRWdVdPWnB5V3dkSHdLMTFIYzhsTDF3NnVhNFZwLU91NTk4bFU2YlJnVDNVYThqcHhfM1E5SmNIc0ZCcDQ3NkF5R3lhM2o2eWFKVktSMTJsX3VfZ2NTYXFFNm1SOVRqTUp0Z2VF?oc=5",
-      "fuente": "GN — Home services software",
-      "categoria": "dxw",
-      "fecha": "2026-11-04T19:34:49+00:00",
-      "extracto": "Google AI Mode Adds Booking & Quote Links For Home Services Search Engine Journal"
-    },
-    {
-      "titulo": "Google AI Mode adds home services booking links - Search Engine Land",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSmtqTkFjWkZZbG96b1dLNHN4anlXVkVqV2N0a0d6ZHl4T3p1QnNrdl9vNzJrVVZILS1VbTNIVVQ1UVFPQk5mbUpJdDBJTlR0VkVPTEhpVG9zWFhsc3dOME41OURJcFVSOXlDZ016a0ZMNFpLeE53cnJ0NzRvYkhJci1XTUR1QUY1eHpn?oc=5",
-      "fuente": "GN — Home services software",
-      "categoria": "dxw",
-      "fecha": "2026-11-04T17:44:02+00:00",
-      "extracto": "Google AI Mode adds home services booking links Search Engine Land"
-    },
-    {
-      "titulo": "Diversis preps sale of field service management software company ServicePower - PEI Private Equity",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM3VNV0ljdXAxVG9MdUlZNk5UT3NtbXN5Yk9SVEFKZ2k5WmJ2bmpoaENsMzBYOC1WZE0zSVpEWDVOZmJuSUpGaFZ0SGFMeWY1RFl4ekdfNExmN3dJbmJ4SWo5S3dkSTJvWXlyRFRIWVNqUHF2dFRwSWl2cV9CdmgwU2hCVTBhNlV4NWtEVnNQekhtQWdvMHZPbDlreXdNd2gycHNlakIxTTFMWjZtRXJ3dFh2Y1RCU21mZlRwaFln?oc=5",
-      "fuente": "GN — Home services software",
-      "categoria": "dxw",
-      "fecha": "2026-11-03T16:13:41+00:00",
-      "extracto": "Diversis preps sale of field service management software company ServicePower PEI Private Equity"
-    },
-    {
-      "titulo": "What Generative Engine Optimization Means for the Restaurant That Isn’t Recommended - Hospitality Net",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVXgxSDdmM3d0VVpkeGNXVnZrWVhOa3lhUU9fM1VGR2FxRXV3Z3lvektMbG9YVGcxNEh2cW50dnkwRVFsU0p0WGZwb0Z4OWdDb3h3eU9lSjBKVllLR1BtUkZpTUdlSHhMSXVMRWdvVHhIS3RXVXJJeERTU2lNWGpKeU4zNHhpa182RHJETXFpdk9TWVdUVEFFcFQtQV90UkdTQ21MdWxSX0FrMTA1VFBWb25TM0F0cUpDaXVHaTVENGxvUzlfSlUwNQ?oc=5",
-      "fuente": "GN — AEO / GEO / AI search",
-      "categoria": "dxw",
-      "fecha": "2026-11-03T09:51:36+00:00",
-      "extracto": "What Generative Engine Optimization Means for the Restaurant That Isn’t Recommended Hospitality Net"
-    },
-    {
-      "titulo": "NTT East launches AI search visibility service for small businesses - Telecompaper",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV2FSNWFNWVN0WmJMVlFPbm1KcnFyOTVNWlluWWdBMlV0OEVoWVdfTDExejZfbjZRVlhFcWJ3aUJpeHdZdl8xZzRoN3BiUERqYm44VnBNaWpIdFZ4LXdab25jS2pQUXU5dVlMbVRUQmVKcFJJa2JkUVhMU0RfZ1lIZ2FNcGdBdnZwWkZOb2U4RTFUMmsyRUY3bDlrRXROcVVfVG5LUEtaNTV3YnRDTm9R?oc=5",
-      "fuente": "GN — AEO / GEO / AI search",
-      "categoria": "dxw",
-      "fecha": "2026-11-04T06:17:46+00:00",
-      "extracto": "NTT East launches AI search visibility service for small businesses Telecompaper"
-    },
-    {
-      "titulo": "AI Chose Blackmail Over Shutdown. Here’s Why That’s Scary. #shorts #ai #claude #fyp #didyouknow",
-      "link": "https://www.youtube.com/watch?v=lARPM6E-wlI",
-      "fuente": "Manu Kahat",
-      "categoria": "youtube",
-      "fecha": "2026-11-02T12:06:09+00:00",
-      "extracto": "What happens if an AI is given a goal and then learns that humans are about to shut it down? Anthropic tested this in a controlled ...",
-      "vistas": 357951,
-      "miniatura": "https://i.ytimg.com/vi/lARPM6E-wlI/hqdefault.jpg"
-    },
-    {
-      "titulo": "Every Claude 2.0 Concept Explained for Normal People",
-      "link": "https://www.youtube.com/watch?v=tcb5q_6jwvY",
-      "fuente": "Nate Herk | AI Automation",
-      "categoria": "youtube",
-      "fecha": "2026-10-30T23:25:18+00:00",
-      "extracto": "My FREE AI OS course: ...",
-      "vistas": 148688,
-      "miniatura": "https://i.ytimg.com/vi/tcb5q_6jwvY/hqdefault.jpg"
-    },
-    {
-      "titulo": "Ho collegato Claude Code alla mia vecchia Android TV: ecco cosa è successo",
-      "link": "https://www.youtube.com/watch?v=nFxwqU3gCB8",
-      "fuente": "Simone Rizzo",
-      "categoria": "youtube",
-      "fecha": "2026-10-30T14:44:25+00:00",
-      "extracto": "Entra nella mia Accademia AI: https://www.rizzoaiacademy.com/ Vuoi sviluppare soluzioni AI avanzate: https://inferentia.xyz IG: ...",
-      "vistas": 171898,
-      "miniatura": "https://i.ytimg.com/vi/nFxwqU3gCB8/hqdefault.jpg"
-    },
-    {
-      "titulo": "Claude + VPS + Doppler : le setup que j’aurais dû connaitre bien plus tôt",
-      "link": "https://www.youtube.com/watch?v=v8hMT8HYoNk",
-      "fuente": "Shubham SHARMA",
-      "categoria": "youtube",
-      "fecha": "2026-10-30T20:10:05+00:00",
-      "extracto": "Héberger vos outils open source sur un VPS Hostinger (code SHUBHAMSHARMA -10%): https://sharma.fr/hostinger-vps-claude ...",
-      "vistas": 132322,
-      "miniatura": "https://i.ytimg.com/vi/v8hMT8HYoNk/hqdefault.jpg"
-    },
-    {
-      "titulo": "Figma MCP مع Claude: الـ AI يقرا الـ Design الحقيقي بدل ما يخمنه من Screenshot.",
-      "link": "https://www.youtube.com/watch?v=jkzmHctIlL0",
-      "fuente": "Tech With Ziad",
-      "categoria": "youtube",
-      "fecha": "2026-11-02T15:40:31+00:00",
-      "extracto": "Figma MCP مع Claude: الـ AI يقرا الـ Design الحقيقي بدل ما يخمنه من Screenshot. Anthropic قدمت MCP في 25 نوفمبر 2024 كـ open ...",
-      "vistas": 2828,
-      "miniatura": "https://i.ytimg.com/vi/jkzmHctIlL0/hqdefault.jpg"
-    },
-    {
-      "titulo": "Claude launches 5 new MCP tools to boost AI browsing and creativity #AI #AITools #Productivity",
-      "link": "https://www.youtube.com/watch?v=fmRjh_Gg4k8",
-      "fuente": "Eli Sadler",
-      "categoria": "youtube",
-      "fecha": "2026-11-03T15:24:38+00:00",
-      "extracto": "Claude MCPs provide five key tools that enhance AI capabilities with live search, browser automation, content extraction, motion ...",
-      "vistas": 5387,
-      "miniatura": "https://i.ytimg.com/vi/fmRjh_Gg4k8/hqdefault.jpg"
-    },
-    {
-      "titulo": "CHATGPT Agora CRIA SÉRIES de DORAMAS LONGOS com UM ÚNICO COMANDO!",
-      "link": "https://www.youtube.com/watch?v=sPENfanWULc",
-      "fuente": "Cavidade 77",
-      "categoria": "youtube",
-      "fecha": "2026-10-30T21:52:33+00:00",
-      "extracto": "Já imaginou usar a Higgsfield https://higgsfield.ai/s/higgsfield-mcp-general-yt-cavidade77-GYfLBq para criar SÉRIES DE ...",
-      "vistas": 1713,
-      "miniatura": "https://i.ytimg.com/vi/sPENfanWULc/hqdefault.jpg"
-    },
-    {
-      "titulo": "Do you still need MCP if Claude can write code?",
-      "link": "https://www.youtube.com/watch?v=vk1gQpPpFPw",
-      "fuente": "AIUnderTheHood",
-      "categoria": "youtube",
-      "fecha": "2026-10-30T15:00:14+00:00",
-      "extracto": "Do you still need an MCP server, or can Claude just write its own connection to an app? Both work. Here they are side by side.",
-      "vistas": 1892,
-      "miniatura": "https://i.ytimg.com/vi/vk1gQpPpFPw/hqdefault.jpg"
-    },
-    {
-      "titulo": "How to Edit VIRAL Talking Head Videos Using ONLY Claude! (New Minimal Style)",
-      "link": "https://www.youtube.com/watch?v=g9xoKm5DEeU",
-      "fuente": "Joseph | Video Editing",
-      "categoria": "youtube",
-      "fecha": "2026-10-31T15:00:03+00:00",
-      "extracto": "Join Ultimate Editors 2.0 - Master the Viral Editing Styles of 2026, AI Video Editing, and Make $2000/mo! (14 Days left) ➡️Click ...",
-      "vistas": 144038,
-      "miniatura": "https://i.ytimg.com/vi/g9xoKm5DEeU/hqdefault.jpg"
-    },
-    {
-      "titulo": "Claude FREE PLAN 🤑 Make Free Videos in Claude Motion Graphics #claude #ai",
-      "link": "https://www.youtube.com/watch?v=u2AXS9KHUro",
-      "fuente": "Raj Photo Editing and Much More",
-      "categoria": "youtube",
-      "fecha": "2026-11-02T13:19:39+00:00",
-      "extracto": "Create Stunning Videos for FREE with Claude AI!** Want to create professional-looking video effects and motion graphics without ...",
-      "vistas": 149103,
-      "miniatura": "https://i.ytimg.com/vi/u2AXS9KHUro/hqdefault.jpg"
-    },
-    {
-      "titulo": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "link": "https://openai.com/index/introducing-gpt-6-cyber",
-      "fuente": "OpenAI News",
-      "categoria": "releases",
-      "fecha": "2026-11-05T09:00:00+00:00",
-      "extracto": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope."
-    },
-    {
-      "titulo": "Setting a new standard for responsible AI infrastructure",
-      "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "fuente": "OpenAI News",
-      "categoria": "releases",
-      "fecha": "2026-11-05T02:00:00+00:00",
-      "extracto": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
-    },
-    {
-      "titulo": "A thousand fewer paths to root",
-      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "fuente": "OpenAI News",
-      "categoria": "releases",
-      "fecha": "2026-11-04T08:00:00+00:00",
-      "extracto": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
-    },
-    {
-      "titulo": "Introducing Images 2.6",
-      "link": "https://openai.com/index/introducing-images-2-6",
-      "fuente": "OpenAI News",
-      "categoria": "releases",
-      "fecha": "2026-11-04T00:00:00+00:00",
-      "extracto": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API."
-    },
-    {
-      "titulo": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-      "link": "https://openai.com/index/devrev-enterprise-self-service",
-      "fuente": "OpenAI News",
-      "categoria": "releases",
-      "fecha": "2026-11-04T00:00:00+00:00",
-      "extracto": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service."
-    },
-    {
-      "titulo": "Introducing Personal Finance in Claude",
-      "link": "https://claude.com/resources/articles/introducing-personal-finance-in-claude",
-      "fuente": "Claude Blog (mirror)",
-      "categoria": "releases",
-      "fecha": "2026-11-05T00:00:00+00:00",
-      "extracto": "Ask Claude about your money and get straight answers from the accounts you connect."
-    },
-    {
-      "titulo": "More visibility and control over Claude Enterprise for security teams",
-      "link": "https://claude.com/resources/articles/claude-enterprise-security-updates",
-      "fuente": "Claude Blog (mirror)",
-      "categoria": "releases",
-      "fecha": "2026-11-05T00:00:00+00:00",
-      "extracto": "More visibility and control over Claude Enterprise for security teams"
-    },
     {
       "titulo": "New agents and products for security, productivity, and creative work on Claude Marketplace",
       "link": "https://claude.com/resources/articles/new-agents-and-products-claude-marketplace",
@@ -14293,6 +14049,286 @@
       "categoria": "dxw",
       "fecha": "2026-11-23T12:42:20+00:00",
       "extracto": "AI Search Visibility Isn’t Permanent. Here’s Why Businesses Need to Keep Earning It CXO Digitalpulse"
+    },
+    {
+      "titulo": "Finally AI solved this | Riemann Hypothesis solved by Levent alpoge #claude #ai",
+      "link": "https://www.youtube.com/watch?v=7Y3IHLnKphg",
+      "fuente": "Aditya Gautam",
+      "categoria": "youtube",
+      "fecha": "2026-11-22T16:27:48+00:00",
+      "extracto": "Riemann hypothesis solved Levent alpoge solve riemann hypothesis using claude Shorts viral Trending news #shortsfeed ...",
+      "vistas": 1068123,
+      "miniatura": "https://i.ytimg.com/vi/7Y3IHLnKphg/hqdefault.jpg"
+    },
+    {
+      "titulo": "All Claude s work btw 😭✌️ #memes #relatable #fypシ゚viral",
+      "link": "https://www.youtube.com/watch?v=hFpkOmlANzo",
+      "fuente": "Mematus",
+      "categoria": "youtube",
+      "fecha": "2026-11-21T14:10:20+00:00",
+      "extracto": "Song: Don't ask me twin ▻ Anime: 1. GetNewsJP - Pip Magneloop Max x Baki 2. Ghost in the Shell - Movie ...",
+      "vistas": 1656432,
+      "miniatura": "https://i.ytimg.com/vi/hFpkOmlANzo/hqdefault.jpg"
+    },
+    {
+      "titulo": "¿La IA de Anthropic ha resuelto la hipótesis de Riemann?",
+      "link": "https://www.youtube.com/watch?v=t2QQ8n3Zlh8",
+      "fuente": "Date un Vlog",
+      "categoria": "youtube",
+      "fecha": "2026-11-20T22:16:33+00:00",
+      "extracto": "La hipótesis de Riemann, el problema sin resolver más famoso de las matemáticas, podría estar resuelta: el matemático Levent ...",
+      "vistas": 860618,
+      "miniatura": "https://i.ytimg.com/vi/t2QQ8n3Zlh8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Dario Amodei: Why Claude’s Creator Fears AI",
+      "link": "https://www.youtube.com/watch?v=foR4BWiUd4g",
+      "fuente": "Afterhour Theory",
+      "categoria": "youtube",
+      "fecha": "2026-11-20T13:17:19+00:00",
+      "extracto": "What happens when the man building powerful AI also wants to build the brakes? An animated satire exploring Dario Amodei, ...",
+      "vistas": 508471,
+      "miniatura": "https://i.ytimg.com/vi/foR4BWiUd4g/hqdefault.jpg"
+    },
+    {
+      "titulo": "AI THREAT | WILL AI TURN AGAINST US? #AI2026 #ViralNews #AIThreat",
+      "link": "https://www.youtube.com/watch?v=_63mqJADG74",
+      "fuente": "Anjali Joshi",
+      "categoria": "youtube",
+      "fecha": "2026-11-22T03:39:52+00:00",
+      "extracto": "AI THREATENED HUMANS? A viral incident involving Claude AI has sparked a debate after an AI response appeared to ...",
+      "vistas": 467838,
+      "miniatura": "https://i.ytimg.com/vi/_63mqJADG74/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Make Money Clipping GTA 6 Videos/Streams (Free Skill)",
+      "link": "https://www.youtube.com/watch?v=2WXR8P3bJys",
+      "fuente": "Nafay 3D",
+      "categoria": "youtube",
+      "fecha": "2026-11-18T15:12:45+00:00",
+      "extracto": "Try Aura, 2 weeks free, no credit card: ...",
+      "vistas": 444413,
+      "miniatura": "https://i.ytimg.com/vi/2WXR8P3bJys/hqdefault.jpg"
+    },
+    {
+      "titulo": "¿Claude resolvió un problema de 167 años? 😳",
+      "link": "https://www.youtube.com/watch?v=Xh_mFUv8inw",
+      "fuente": "Taratic",
+      "categoria": "youtube",
+      "fecha": "2026-11-20T19:47:28+00:00",
+      "extracto": "Y si una inteligencia artificial hubiera conseguido lo que los matemáticos llevan 167 años intentando? Levent Alpöge afirma ...",
+      "vistas": 292371,
+      "miniatura": "https://i.ytimg.com/vi/Xh_mFUv8inw/hqdefault.jpg"
+    },
+    {
+      "titulo": "A season on the farm with AI",
+      "link": "https://www.youtube.com/watch?v=RRj07Hc3ikU",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-11-17T18:43:13+00:00",
+      "extracto": "Martina Wanis is a biologist from Vienna who grows sweet potatoes in Slovenia. This year, she took Claude along for the whole ...",
+      "vistas": 487591,
+      "miniatura": "https://i.ytimg.com/vi/RRj07Hc3ikU/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code’s creator says you’ll code as well as he can. 🤯",
+      "link": "https://www.youtube.com/watch?v=qEkC_oE_SoQ",
+      "fuente": "Hyperbolic AI",
+      "categoria": "youtube",
+      "fecha": "2026-11-21T21:19:18+00:00",
+      "extracto": "Boris Cherny built Claude Code. He says that in a year, maybe less, anyone will write code as well as he does. He's been doing it ...",
+      "vistas": 275470,
+      "miniatura": "https://i.ytimg.com/vi/qEkC_oE_SoQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "Make Viral Stickman Shorts using FREE TOOLS (NO CLAUDE CODE) like Ricks Clips",
+      "link": "https://www.youtube.com/watch?v=M_1IGXSQX_g",
+      "fuente": "Caffeinated Blogger",
+      "categoria": "youtube",
+      "fecha": "2026-11-18T12:05:44+00:00",
+      "extracto": "Make Viral Stickman Animated Shorts in Ricks Clips style without Claude Code, using only FREE TOOLS. You don't need ...",
+      "vistas": 194756,
+      "miniatura": "https://i.ytimg.com/vi/M_1IGXSQX_g/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Make Money Clipping GTA 6 Videos/Streams Without Claude and Laptop",
+      "link": "https://www.youtube.com/watch?v=VNUwywIv_8g",
+      "fuente": "Nafay 3D",
+      "categoria": "youtube",
+      "fecha": "2026-11-19T14:57:14+00:00",
+      "extracto": "Use Wanted Clips by ...",
+      "vistas": 164638,
+      "miniatura": "https://i.ytimg.com/vi/VNUwywIv_8g/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Makes Insane Videos Now (It Can Replace Seedance)",
+      "link": "https://www.youtube.com/watch?v=tPiEPzy2JKU",
+      "fuente": "AI Samson",
+      "categoria": "youtube",
+      "fecha": "2026-11-17T08:37:37+00:00",
+      "extracto": "Claude can now make entire animated videos in code, with no video model. Try Higgsfield: ...",
+      "vistas": 151801,
+      "miniatura": "https://i.ytimg.com/vi/tPiEPzy2JKU/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to access Claude for FREE ? | (100% working trick 🤯 ).",
+      "link": "https://www.youtube.com/watch?v=qDJ_ajB4Xto",
+      "fuente": "TechBoyDeepak",
+      "categoria": "youtube",
+      "fecha": "2026-11-18T12:57:53+00:00",
+      "extracto": "How to Access Claude for FREE Using Free LLM APIs! Want to use Claude without spending money on expensive API credits?",
+      "vistas": 172664,
+      "miniatura": "https://i.ytimg.com/vi/qDJ_ajB4Xto/hqdefault.jpg"
+    },
+    {
+      "titulo": "Das hätte nicht klappen dürfen",
+      "link": "https://www.youtube.com/watch?v=v6iW8YGtaz4",
+      "fuente": "simon42",
+      "categoria": "youtube",
+      "fecha": "2026-11-22T07:30:13+00:00",
+      "extracto": "Ich habe Claude gefragt, ob es Bock hat, mit mir eine Home-Assistant-Integration zu bauen. 62 Minuten später stand eine ...",
+      "vistas": 73413,
+      "miniatura": "https://i.ytimg.com/vi/v6iW8YGtaz4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Home Assistant + Claude AI: YAML Analysis, Error Detection, and Automation Creation",
+      "link": "https://www.youtube.com/watch?v=0uHbGumqQn8",
+      "fuente": "Alex Kvazis - технологии умного дома",
+      "categoria": "youtube",
+      "fecha": "2026-11-21T14:00:30+00:00",
+      "extracto": "HomeAssistant #ClaudeAI #HAMCP #MCP #YAML #Automation Can artificial intelligence do more than just control smart home ...",
+      "vistas": 14913,
+      "miniatura": "https://i.ytimg.com/vi/0uHbGumqQn8/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude can build its own connections to software",
+      "link": "https://www.youtube.com/watch?v=1JuPDipqx44",
+      "fuente": "The AI Impact | AI Workflows - Daily",
+      "categoria": "youtube",
+      "fecha": "2026-11-20T03:26:43+00:00",
+      "extracto": "Claude can build its own connections to software CLI-Anything is a free, open-source project that helps Claude Code build ...",
+      "vistas": 6645,
+      "miniatura": "https://i.ytimg.com/vi/1JuPDipqx44/hqdefault.jpg"
+    },
+    {
+      "titulo": "This Claude Skill Simulates Day Trading Scenarios ⁠",
+      "link": "https://www.youtube.com/watch?v=XbMEATIOfqw",
+      "fuente": "Kayvon Jafarzadeh",
+      "categoria": "youtube",
+      "fecha": "2026-11-20T13:22:38+00:00",
+      "extracto": "Want to start building your own AI business? Join the Zero to Founder Incubator waitlist ...",
+      "vistas": 5769,
+      "miniatura": "https://i.ytimg.com/vi/XbMEATIOfqw/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude İle Markanı Aylık +10K Dolara Taşıyacak Strateji",
+      "link": "https://www.youtube.com/watch?v=JETx54Uk9Do",
+      "fuente": "Ecomelih",
+      "categoria": "youtube",
+      "fecha": "2026-11-18T14:46:01+00:00",
+      "extracto": "Higgsfield MCP'yi dene: https://higgsfield.ai/s/higgsfield-mcp-general-yt-ecomelih-CEmDKj E-ticaret markan için profesyonel ...",
+      "vistas": 3877,
+      "miniatura": "https://i.ytimg.com/vi/JETx54Uk9Do/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code Can Now Control ANY App - No MCP Needed!",
+      "link": "https://www.youtube.com/watch?v=jfm8yjwM7Pw",
+      "fuente": "Alex Verse ",
+      "categoria": "youtube",
+      "fecha": "2026-11-17T07:41:29+00:00",
+      "extracto": "Claude just killed MCPs. This new GitHub repo called CLI-Anything lets Claude Code control ANY software, even if it has NO ...",
+      "vistas": 2021,
+      "miniatura": "https://i.ytimg.com/vi/jfm8yjwM7Pw/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Code Just Got a Universal Remote #claudecode #clianything #GitHub #clone #tipsandtricks",
+      "link": "https://www.youtube.com/watch?v=96Hmw0szgDc",
+      "fuente": "With Manny",
+      "categoria": "youtube",
+      "fecha": "2026-11-17T02:11:40+00:00",
+      "extracto": "Title: Claude Code Just Got a Universal Remote Description: Claude Code can do a lot more when it can actually use your ...",
+      "vistas": 1724,
+      "miniatura": "https://i.ytimg.com/vi/96Hmw0szgDc/hqdefault.jpg"
+    },
+    {
+      "titulo": "AIでここまで作れる！美少女とモンスターが冒険するファンタジーRPG【Higgsfield】",
+      "link": "https://www.youtube.com/watch?v=gqSD681oTSc",
+      "fuente": "オレアリchannel",
+      "categoria": "youtube",
+      "fecha": "2026-11-17T12:12:51+00:00",
+      "extracto": "https://higgsfield.ai/s/claude-fable-5-2-yt-oreali-fam-CGeYZd Higgsfieldはこちらから！ AIでファンタジーRPGの世界を映像化！",
+      "vistas": 905,
+      "miniatura": "https://i.ytimg.com/vi/gqSD681oTSc/hqdefault.jpg"
+    },
+    {
+      "titulo": "GTA 6 Clipping: How to Start Make Money (Full Guide) 🔥",
+      "link": "https://www.youtube.com/watch?v=_W_BwFwJL9Y",
+      "fuente": "Not Harshu",
+      "categoria": "youtube",
+      "fecha": "2026-11-17T08:14:57+00:00",
+      "extracto": "GTA 6 is coming soon, and while everyone is busy watching streams, you can turn the GTA 6 hype into an earning opportunity!",
+      "vistas": 463153,
+      "miniatura": "https://i.ytimg.com/vi/_W_BwFwJL9Y/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Make 2d Animation Shorts Using Ai | ai se video kaise banaye | ai video kaise banaye",
+      "link": "https://www.youtube.com/watch?v=9MTsuXHt1Q4",
+      "fuente": "Arvind zone Extra",
+      "categoria": "youtube",
+      "fecha": "2026-11-19T12:14:42+00:00",
+      "extracto": "How to Make 2d Animation Shorts Using Ai | ai se video kaise banaye | ai video kaise banaye Prompt ...",
+      "vistas": 204477,
+      "miniatura": "https://i.ytimg.com/vi/9MTsuXHt1Q4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Does Gillas NEW Update Use AI? #gilla #claude",
+      "link": "https://www.youtube.com/watch?v=s2Okq-sqwYI",
+      "fuente": "JB",
+      "categoria": "youtube",
+      "fecha": "2026-11-20T23:45:20+00:00",
+      "extracto": "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ LINKS All my links: https://guns.lol/jb.mp4 Become a member today!",
+      "vistas": 144710,
+      "miniatura": "https://i.ytimg.com/vi/s2Okq-sqwYI/hqdefault.jpg"
+    },
+    {
+      "titulo": "Anthropic’s Study Just Revealed How The Top 1% Uses AI differently",
+      "link": "https://www.youtube.com/watch?v=81Jg17dQz1A",
+      "fuente": "Ben AI",
+      "categoria": "youtube",
+      "fecha": "2026-11-21T15:23:12+00:00",
+      "extracto": "Get the free Anthropic Staff Habits Toolkit (prompting framework, skills and output style) → https://c.benai.co/asjrh-free [Join my ...",
+      "vistas": 155551,
+      "miniatura": "https://i.ytimg.com/vi/81Jg17dQz1A/hqdefault.jpg"
+    },
+    {
+      "titulo": "How Revolut Cut AI Costs By 90%",
+      "link": "https://www.youtube.com/watch?v=pUcGcKM_hLg",
+      "fuente": "Into AI by Dr. Ashish Bamania",
+      "categoria": "youtube",
+      "fecha": "2026-11-19T14:06:47+00:00",
+      "extracto": "Ever wondered how Revolut cut its AI coding bill by about 90% while letting engineers use AI with no limits? Here is how ...",
+      "vistas": 414135,
+      "miniatura": "https://i.ytimg.com/vi/pUcGcKM_hLg/hqdefault.jpg"
+    },
+    {
+      "titulo": "Clip GTA 6 Live Streams Into 10 Shorts a Day With Any AI (Free)",
+      "link": "https://www.youtube.com/watch?v=YoelL2bbiiI",
+      "fuente": "NoCodeHack",
+      "categoria": "youtube",
+      "fecha": "2026-11-18T21:23:32+00:00",
+      "extracto": "LINKS Step-by-step guide (free): https://guide.nocodehack.io ⚠️ Our GitHub account is temporarily suspended (we're appealing ...",
+      "vistas": 218203,
+      "miniatura": "https://i.ytimg.com/vi/YoelL2bbiiI/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Proves Riemann Hypothesis?",
+      "link": "https://www.youtube.com/watch?v=2BbNv2VwBl8",
+      "fuente": "Into AI by Dr. Ashish Bamania",
+      "categoria": "youtube",
+      "fecha": "2026-11-20T18:18:45+00:00",
+      "extracto": "Master AI engineering like never before. Subscribe to: https://intoai.pub Did Claude, an AI model, just help prove the most famous ...",
+      "vistas": 258395,
+      "miniatura": "https://i.ytimg.com/vi/2BbNv2VwBl8/hqdefault.jpg"
     }
   ]
 }

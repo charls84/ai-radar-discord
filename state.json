@@ -1,15 +1,5 @@
 {
   "vistos": [
-    "fd703095ac1c8571",
-    "0087ed27c065a06e",
-    "6049eee196b24c0e",
-    "531736221a796384",
-    "132853edba4299be",
-    "b96dd0a957087153",
-    "a04e52c4f20ac674",
-    "d49766f5dfe1c199",
-    "a07f0a029ab5f6ac",
-    "c74521fd57bcad20",
     "864340df7a53f303",
     "c25d6967473d077d",
     "69add0723c4e23f6",
@@ -1999,89 +1989,19 @@
     "7c4ef2659bed7272",
     "62e232420c4aadc1",
     "f8b4ef0ad19118ac",
-    "97fa77f075be85ec"
+    "97fa77f075be85ec",
+    "5caeb7e90218a7c1",
+    "fbc6a521598f0de9",
+    "7f3d3a906d411513",
+    "fecb3b0a2cd455ed",
+    "b759c31cff77f59a",
+    "a5df97455277bb15",
+    "c95f2371128a9314",
+    "3248f36bc27a93c8",
+    "fcd2e3bbf2bb981a",
+    "3923717668d97ebd"
   ],
   "archivo": [
-    {
-      "titulo": "Franklin Templeton uses OpenAI to support investment research",
-      "link": "https://openai.com/index/franklin-templeton",
-      "fuente": "OpenAI News",
-      "categoria": "releases",
-      "fecha": "2026-11-05T00:00:00+00:00",
-      "extracto": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
-    },
-    {
-      "titulo": "v2.1.319",
-      "link": "https://github.com/anthropics/claude-code/releases/tag/v2.1.319",
-      "fuente": "Claude Code — Releases",
-      "categoria": "releases",
-      "fecha": "2026-11-06T17:04:01+00:00",
-      "extracto": "What's changed Changed auto mode with telemetry or feature flags off, including behind LLM gateways: calls the server can't check are asked about or denied, with no fallback to the built-in classifier; set CLAUDE_CODE_AUTO_MODE_SERVER=0 to keep using it (Bedrock, Vertex and Foundry are unchanged) Changed auto mode behind an LLM gateway: CLAUDE_CODE_AUTO_MODE_SERVER=1 turns on the server-side check even with CLAUDE_CODE_DISABLE_EXPERIMENTAL_BETAS..."
-    },
-    {
-      "titulo": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "link": "https://huggingface.co/blog/allenai/toyblocks",
-      "fuente": "Hugging Face Blog",
-      "categoria": "releases",
-      "fecha": "2026-11-06T14:00:48+00:00",
-      "extracto": ""
-    },
-    {
-      "titulo": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "fuente": "Hugging Face Blog",
-      "categoria": "releases",
-      "fecha": "2026-11-06T00:00:00+00:00",
-      "extracto": ""
-    },
-    {
-      "titulo": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "fuente": "MIT Technology Review — AI",
-      "categoria": "news",
-      "fecha": "2026-11-06T10:00:00+00:00",
-      "extracto": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed"
-    },
-    {
-      "titulo": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-11-06T18:44:38+00:00",
-      "extracto": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
-    },
-    {
-      "titulo": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-11-06T18:44:20+00:00",
-      "extracto": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers."
-    },
-    {
-      "titulo": "How a Blue Wave midterm might reshape the AI industry",
-      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-11-06T18:00:00+00:00",
-      "extracto": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [ ]"
-    },
-    {
-      "titulo": "After the midterms, is the AI industry in for a rough two years?",
-      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-11-06T17:23:52+00:00",
-      "extracto": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [ ]"
-    },
-    {
-      "titulo": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-11-06T15:54:47+00:00",
-      "extracto": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
-    },
     {
       "titulo": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
       "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
@@ -14311,6 +14231,106 @@
       "categoria": "dxw",
       "fecha": "2026-11-24T06:09:45+00:00",
       "extracto": "Few UK businesses are working to improve AI search visibility, study finds Mezha.net"
+    },
+    {
+      "titulo": "Anthropic Just Dropped 7 MASSIVE Claude Features (Master them in 15 mins)",
+      "link": "https://www.youtube.com/watch?v=OMfU5iq8Eik",
+      "fuente": "Jay E | RoboNuggets",
+      "categoria": "youtube",
+      "fecha": "2026-11-22T00:50:09+00:00",
+      "extracto": "Get the 7 New Claude Features PDF guide for free ...",
+      "vistas": 663507,
+      "miniatura": "https://i.ytimg.com/vi/OMfU5iq8Eik/hqdefault.jpg"
+    },
+    {
+      "titulo": "Did AI Just Prove The Riemann Hypothesis?",
+      "link": "https://www.youtube.com/watch?v=p0dPPhzRBm4",
+      "fuente": "SciencePetr",
+      "categoria": "youtube",
+      "fecha": "2026-11-21T04:00:15+00:00",
+      "extracto": "AI just seems to have proven the Riemann Hypothesis -- the most important problem in mathematics. We need to talk about it.",
+      "vistas": 568121,
+      "miniatura": "https://i.ytimg.com/vi/p0dPPhzRBm4/hqdefault.jpg"
+    },
+    {
+      "titulo": "Everything new in Claude this month",
+      "link": "https://www.youtube.com/watch?v=EuOg5f_Egns",
+      "fuente": "Claude",
+      "categoria": "youtube",
+      "fecha": "2026-11-23T16:56:38+00:00",
+      "extracto": "Last month we released Claude Fable 5.2, Claude Duet, and Personal Finance in Claude, plus a few smaller updates you may ...",
+      "vistas": 318507,
+      "miniatura": "https://i.ytimg.com/vi/EuOg5f_Egns/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude ускорил вайфай больше чем вдвое и нашёл два чужих устройства #shorts",
+      "link": "https://www.youtube.com/watch?v=Lcl4AlqZrCQ",
+      "fuente": "Локтев.",
+      "categoria": "youtube",
+      "fecha": "2026-11-23T09:00:27+00:00",
+      "extracto": "Человек попросил Claude Code найти всё, что тормозит вайфай. Claude сам нашёл роутер, замерил скорость, проверил ...",
+      "vistas": 263480,
+      "miniatura": "https://i.ytimg.com/vi/Lcl4AlqZrCQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Ship JUST Dropped - Is this the END for Programmers?",
+      "link": "https://www.youtube.com/watch?v=ahd8i70p5Hw",
+      "fuente": "Christian Peverelli",
+      "categoria": "youtube",
+      "fecha": "2026-11-24T04:34:51+00:00",
+      "extracto": "FREE Resources: https://www.skool.com/wearenocode TOOLS AI Sales Bond: https://askbond.ai/ HeyReach: ...",
+      "vistas": 201915,
+      "miniatura": "https://i.ytimg.com/vi/ahd8i70p5Hw/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude AI Full Course 2026 | Claude Tutorial for Beginners | Claude Code, Cowork Artifacts",
+      "link": "https://www.youtube.com/watch?v=rb8i-xEqeo0",
+      "fuente": "Great Learning",
+      "categoria": "youtube",
+      "fecha": "2026-11-21T09:30:24+00:00",
+      "extracto": "What if one AI could write your reports, turn a pile of receipts into a spreadsheet, run your weekly sales summary on a schedule, ...",
+      "vistas": 17241,
+      "miniatura": "https://i.ytimg.com/vi/rb8i-xEqeo0/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Connect Claude to TradingView in under a minute",
+      "link": "https://www.youtube.com/watch?v=u5SIq71IbtU",
+      "fuente": "Tech Info",
+      "categoria": "youtube",
+      "fecha": "2026-11-18T02:02:25+00:00",
+      "extracto": "",
+      "vistas": 1684,
+      "miniatura": "https://i.ytimg.com/vi/u5SIq71IbtU/hqdefault.jpg"
+    },
+    {
+      "titulo": "Connect Claude AI with Vomyra AI | Automate AI Voice Calls in Minutes! #shortsfeed",
+      "link": "https://www.youtube.com/watch?v=-xG-wldhiFI",
+      "fuente": "Vomyra AI",
+      "categoria": "youtube",
+      "fecha": "2026-11-19T10:44:31+00:00",
+      "extracto": "What if Claude AI could trigger real AI voice calls? In this video, we'll show you how to connect Claude AI with Vomyra AI using a ...",
+      "vistas": 1337,
+      "miniatura": "https://i.ytimg.com/vi/-xG-wldhiFI/hqdefault.jpg"
+    },
+    {
+      "titulo": "How Claude Can Edit Videos in DaVinci Resolve ⁠",
+      "link": "https://www.youtube.com/watch?v=T12wuq91dYQ",
+      "fuente": "Kayvon Jafarzadeh",
+      "categoria": "youtube",
+      "fecha": "2026-11-22T01:29:13+00:00",
+      "extracto": "Want to start building your own AI business? Join the Zero to Founder Incubator waitlist ...",
+      "vistas": 1385,
+      "miniatura": "https://i.ytimg.com/vi/T12wuq91dYQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "Anthropic s Engineers Stopped Building AI Agents (Here s What They Build Instead)",
+      "link": "https://www.youtube.com/watch?v=IMSYKloMFrE",
+      "fuente": "Jay E | RoboNuggets",
+      "categoria": "youtube",
+      "fecha": "2026-11-23T23:02:47+00:00",
+      "extracto": "Get the Claude Skills Guide for free ...",
+      "vistas": 380423,
+      "miniatura": "https://i.ytimg.com/vi/IMSYKloMFrE/hqdefault.jpg"
     }
   ]
 }

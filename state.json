@@ -1,7 +1,5 @@
 {
   "vistos": [
-    "00f631f70028c18d",
-    "f6e32d915662175a",
     "ac6e5e7e50440844",
     "2561c04118f5aa4c",
     "3f2b988a46087cb8",
@@ -1999,25 +1997,11 @@
     "2e7eafc1f187a215",
     "56bfff6eca3a5b75",
     "6c219ed7ca05ee4d",
-    "d0c63c37f46e1121"
+    "d0c63c37f46e1121",
+    "4b5bc930cfc4838c",
+    "34a4d9d479c0a472"
   ],
   "archivo": [
-    {
-      "titulo": "New agents and products for security, productivity, and creative work on Claude Marketplace",
-      "link": "https://claude.com/resources/articles/new-agents-and-products-claude-marketplace",
-      "fuente": "Claude Blog (mirror)",
-      "categoria": "releases",
-      "fecha": "2026-11-04T00:00:00+00:00",
-      "extracto": "New agents and products for security, productivity, and creative work on Claude Marketplace"
-    },
-    {
-      "titulo": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "fuente": "Google AI Blog",
-      "categoria": "releases",
-      "fecha": "2026-11-05T17:00:00+00:00",
-      "extracto": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street"
-    },
     {
       "titulo": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
@@ -14329,6 +14313,26 @@
       "extracto": "Master AI engineering like never before. Subscribe to: https://intoai.pub Did Claude, an AI model, just help prove the most famous ...",
       "vistas": 258395,
       "miniatura": "https://i.ytimg.com/vi/2BbNv2VwBl8/hqdefault.jpg"
+    },
+    {
+      "titulo": "4 FREE Open Source AI Tools That Replace Your Paid AI Stack (No Coding)",
+      "link": "https://www.youtube.com/watch?v=pAov09lgq3Y",
+      "fuente": "Outskill",
+      "categoria": "youtube",
+      "fecha": "2026-11-17T14:45:26+00:00",
+      "extracto": "4 free, open-source AI tools on GitHub that replace ElevenLabs, a video editor, a web designer, and even Microsoft Office.",
+      "vistas": 162109,
+      "miniatura": "https://i.ytimg.com/vi/pAov09lgq3Y/hqdefault.jpg"
+    },
+    {
+      "titulo": "إزاي تعمل فيديوهات بكلود Fable 5.2 من غير ما تصوّر",
+      "link": "https://www.youtube.com/watch?v=Ew1TQ8AaPik",
+      "fuente": "We Aam",
+      "categoria": "youtube",
+      "fecha": "2026-11-23T22:45:31+00:00",
+      "extracto": "Black Friday Sale, get up to 60% off Higgsfield plans https://higgsfield.ai/s/claude-fable-5-2-yt-weaamzm-RxvmnB جربت موديل ...",
+      "vistas": 3502,
+      "miniatura": "https://i.ytimg.com/vi/Ew1TQ8AaPik/hqdefault.jpg"
     }
   ]
 }

@@ -1,7 +1,5 @@
 {
   "vistos": [
-    "5f07e1f0219ec1ee",
-    "593e6f78eb2771bb",
     "049eb3d05453beea",
     "49656b30926b4320",
     "c08527579e0d22e1",
@@ -1999,25 +1997,11 @@
     "3cc668b1ce17015c",
     "d6a73e39ca31f167",
     "13b3c13b49f4e648",
-    "f89fa584000f6ac1"
+    "f89fa584000f6ac1",
+    "80b2babda4efcf27",
+    "5fb31a180100229d"
   ],
   "archivo": [
-    {
-      "titulo": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-11-09T20:09:06+00:00",
-      "extracto": "The Nvidia CEO also pulled out of an Anthropic event earlier."
-    },
-    {
-      "titulo": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-11-09T19:24:51+00:00",
-      "extracto": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
-    },
     {
       "titulo": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
       "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
@@ -14323,6 +14307,26 @@
       "extracto": "Full Video with the Proof Explained: https://youtu.be/a6JGJPRALl0 The Riemann hypothesis is a million-dollar problem that has ...",
       "vistas": 215005,
       "miniatura": "https://i.ytimg.com/vi/SZ7RNrYb7gE/hqdefault.jpg"
+    },
+    {
+      "titulo": "Scientists Left Claude Alone on a Simulated Island for 30 Hours",
+      "link": "https://www.youtube.com/watch?v=Jql5lhC3Z1Q",
+      "fuente": "Elsewhere chronicles",
+      "categoria": "youtube",
+      "fecha": "2026-11-19T15:00:57+00:00",
+      "extracto": "MIT gave thirteen copies of Claude a body, a small simulated island, no task, no goal and no score, and then left them completely ...",
+      "vistas": 504156,
+      "miniatura": "https://i.ytimg.com/vi/Jql5lhC3Z1Q/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Discovers Two New Planets",
+      "link": "https://www.youtube.com/watch?v=zieFKfWYvB8",
+      "fuente": "Into AI by Dr. Ashish Bamania",
+      "categoria": "youtube",
+      "fecha": "2026-11-22T13:06:54+00:00",
+      "extracto": "Ever wondered how a product manager with no telescope ended up with 2 planet candidates on the official TESS list? Here is ...",
+      "vistas": 221569,
+      "miniatura": "https://i.ytimg.com/vi/zieFKfWYvB8/hqdefault.jpg"
     }
   ]
 }

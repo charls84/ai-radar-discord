@@ -1,14 +1,5 @@
 {
   "vistos": [
-    "8c999d6885d24711",
-    "4e3e5904c85ae763",
-    "1ff74ee2cb106637",
-    "edf59637f599d673",
-    "693b33f80ddbedbb",
-    "d61b692811c1a0d0",
-    "6b7b270bae4fa584",
-    "1360bd8eb5a8e67e",
-    "cd4781d96bb5cfcc",
     "8e4104a923ec61a4",
     "97adab01dbf7344a",
     "7e65614cc89aac7b",
@@ -1999,81 +1990,18 @@
     "5d179ccac383c663",
     "df09a0550bb1344e",
     "830b6c876e0e0c38",
-    "b30aeb3730424423"
+    "b30aeb3730424423",
+    "030a064ee16657ed",
+    "6c82c618f49db125",
+    "5db2a147eacb8b00",
+    "b9aaa9c0bc1f5ff6",
+    "a490d209441cc0e4",
+    "a2ab31475458aa81",
+    "d7137b12a0ba5630",
+    "2641d5a0ee5445c5",
+    "6a8b1c5197c365df"
   ],
   "archivo": [
-    {
-      "titulo": "88% of enterprises now use or test AI agents, but most still need a human in the loop",
-      "link": "https://zapier.com/blog/ai-agents-survey",
-      "fuente": "Zapier Blog",
-      "categoria": "dxw",
-      "fecha": "2026-11-09T05:00:00+00:00",
-      "extracto": "A robot vacuum should be a simple delegation. The floor is dirty. The robot cleans the floor. I go do literally anything else. Instead, the promise of automated cleaning comes with a surprising number of supervisory responsibilities: rescue it from a charging cable, move a sock from its path, ponder why the bathroom threshold is apparently an impassable geological formation. The floor gets cleaner. I remain involved. Enterprise AI agents are roug..."
-    },
-    {
-      "titulo": "Send contracts for e-signature from n8n, with TurboDocx, Slack approval and SharePoint filing",
-      "link": "https://blog.n8n.io/spotlight-turbodocx/",
-      "fuente": "n8n Blog",
-      "categoria": "dxw",
-      "fecha": "2026-11-08T14:07:15+00:00",
-      "extracto": "This Verified Node Spotlight is a guest post written by Nicolas Fry, CEO of TurboDocx. The deal is closed and the contract is ready. It s been sitting in someone s inbox for three days, waiting for an OK, send it. Once it s finally"
-    },
-    {
-      "titulo": "Cue",
-      "link": "https://www.producthunt.com/products/cue-voice-keyboard",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-11-08T20:08:44+00:00",
-      "extracto": "AI meeting notes, prep Discussion | Link"
-    },
-    {
-      "titulo": "GitHub New PR Overview",
-      "link": "https://www.producthunt.com/products/github",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-11-09T03:34:44+00:00",
-      "extracto": "See what's blocking a PR before you scroll Discussion | Link"
-    },
-    {
-      "titulo": "Nörth",
-      "link": "https://www.producthunt.com/products/north-5",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-11-08T20:16:37+00:00",
-      "extracto": "Natural, peer-to-peer collaboration for remote work Discussion | Link"
-    },
-    {
-      "titulo": "ClipsPal",
-      "link": "https://www.producthunt.com/products/clipspal",
-      "fuente": "Product Hunt",
-      "categoria": "dxw",
-      "fecha": "2026-11-08T13:34:07+00:00",
-      "extracto": "AI video editor that edits your talking-head videos Discussion | Link"
-    },
-    {
-      "titulo": "Cannock marketing agency launches Google Business Profile optimisation service - Greater Birmingham Chambers of Commerce",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN1ZGWUQzcVQ0TTVqdUtfV2EwNXI1Y3FIODhzc2FYUnluN3Rsc3JpR2ZlQThnYWxkMVlscGE5TWd5ckhXRDU5Y2ZtdHRJa1ExUzVDY2I0WWVzX1VhcUs4SHNnalhqRzdOTGJ6N3o3d0VSbVRpX3BGc3lrNFF2aTNFdXNGaEFISXlHMXRsTVZBNTQwWWs3dmFqZDktM2dmdlA2Q3VqOU1Qd1ZGcDc4NV9BUlNnOG4zNUxRYVBockp6a1Z6c1U5VkJOZXdKcWZMQTA?oc=5",
-      "fuente": "GN — Google Business Profile",
-      "categoria": "dxw",
-      "fecha": "2026-11-09T11:34:28+00:00",
-      "extracto": "Cannock marketing agency launches Google Business Profile optimisation service Greater Birmingham Chambers of Commerce"
-    },
-    {
-      "titulo": "Guava raises $12.5 mn in seed funding to expand enterprise voice AI agents - Beinsure",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aV2h5SExUVHhiYUh4VXVJVTc4cDh1X1pYWHhucUNSdk4zMUdvQVJ0eHdfdjhRY2V5ekxwemx3WF9JM3JBTzQxOVEwT0xQUUN3bVJ6dlBCaG9mekRRUlFSNzlFOENtcldrNWxxRDZ0eFQ?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-11-09T11:53:41+00:00",
-      "extracto": "Guava raises $12.5 mn in seed funding to expand enterprise voice AI agents Beinsure"
-    },
-    {
-      "titulo": "Salesforce Pays Billions for Voice AI, and Small Businesses Should Pay Attention - Times Square Chronicles",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTzhkX19hbWNYM0wzMWJhbUxNTWwzbFh3QnpXQVZDTXl2NVFSZjZVSkFOSWJ6aEFvMVFJSFdDMDN4bE8yY01IbUVOSVJPWk1QcEFEYzNFRWN0Z2FvRDNFdDFqdkFkWHBETVVqd0N4Q0k4TzNxZ21LV3dpRWQyMERma2tTMHlXV2JibURDYVVpLXRPMW1XME5DNllSMmNpbHY5TkRRaQ?oc=5",
-      "fuente": "GN — Voice AI agents",
-      "categoria": "dxw",
-      "fecha": "2026-11-09T06:01:09+00:00",
-      "extracto": "Salesforce Pays Billions for Voice AI, and Small Businesses Should Pay Attention Times Square Chronicles"
-    },
     {
       "titulo": "Belitsoft Reviews TOP 5 AI Agent Development Trends in 2026 - TechBullion",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQnN1dHpKZVZJOE5ZWnZyVkJTWVJEOWZhWnNORzl0eUtWVzhodm5DWXVrelJkek1MTnE4X2RqLUx6dWxwdzN0cTNUSG5kUGZzdnZ1N2ZXQXBMVmR6dnFKb2NsSGFrLU8zQjY0TGI3SjBtcmJoNG5GenB2aXlFRXotQnhRZkVud0hDWXVZYg?oc=5",
@@ -14327,6 +14255,96 @@
       "categoria": "dxw",
       "fecha": "2026-11-25T21:17:37+00:00",
       "extracto": "GreenBanana SEO Examines AI SEO Services: LLM Optimization & AI Search Visibility ocolly.com"
+    },
+    {
+      "titulo": "AI Ne Di 1 Billion Se Ulti Ginti Ginwane Ki Dhamki! 😱 Kya AI Insaano Ke Control Se Bahar h?",
+      "link": "https://www.youtube.com/watch?v=rmUdjWoD5Yc",
+      "fuente": "Fast info 4U",
+      "categoria": "youtube",
+      "fecha": "2026-11-21T18:02:26+00:00",
+      "extracto": "Kya AI insaano ke control se bahar jaane ki dhamki de raha hai? Ek Indian researcher ne AI ko 1 lakh tak counting karne ka ...",
+      "vistas": 2901394,
+      "miniatura": "https://i.ytimg.com/vi/rmUdjWoD5Yc/hqdefault.jpg"
+    },
+    {
+      "titulo": "AI Ne Insaano Ko Khule Aam Dhamki Di! 💀",
+      "link": "https://www.youtube.com/watch?v=69tacDrYplQ",
+      "fuente": "Facts With Ishan",
+      "categoria": "youtube",
+      "fecha": "2026-11-23T07:02:35+00:00",
+      "extracto": "Kya Claude AI ne sach mein insaano ko dhamki de di? Ek user ne Claude AI se 1 se 1 lakh tak counting karne ko kaha, lekin AI ...",
+      "vistas": 1664511,
+      "miniatura": "https://i.ytimg.com/vi/69tacDrYplQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "People are using Claude for WILD things",
+      "link": "https://www.youtube.com/watch?v=xrjZdNszMao",
+      "fuente": "NextWork",
+      "categoria": "youtube",
+      "fecha": "2026-11-22T05:00:20+00:00",
+      "extracto": "Free projects for all 15 things people built with AI ...",
+      "vistas": 454108,
+      "miniatura": "https://i.ytimg.com/vi/xrjZdNszMao/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Can Design ANYTHING in This FREE CAD Software!",
+      "link": "https://www.youtube.com/watch?v=C7cZ_wLDjIs",
+      "fuente": "Print N Repeat",
+      "categoria": "youtube",
+      "fecha": "2026-11-23T19:49:22+00:00",
+      "extracto": "SolidCraft is a brand-new, completely FREE CAD software that's changing the way we design 3D models! With built-in MCP ...",
+      "vistas": 126759,
+      "miniatura": "https://i.ytimg.com/vi/C7cZ_wLDjIs/hqdefault.jpg"
+    },
+    {
+      "titulo": "Ab Claude se Instagram posts create karne ke saath unhe schedule bhi kar sakte ho! 🤯",
+      "link": "https://www.youtube.com/watch?v=qqC9tkArwSw",
+      "fuente": "Aman Arya AI",
+      "categoria": "youtube",
+      "fecha": "2026-11-25T13:30:25+00:00",
+      "extracto": "Meet SuperProfile MCP — ek connector jo Claude ko aapke Instagram scheduling workflow se connect karta hai. Iska secret hai ...",
+      "vistas": 4298,
+      "miniatura": "https://i.ytimg.com/vi/qqC9tkArwSw/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude Said No... So I Tried 14 Uncensored AI Models",
+      "link": "https://www.youtube.com/watch?v=Kc9NUuPc4Jk",
+      "fuente": "Bart Slodyczka",
+      "categoria": "youtube",
+      "fecha": "2026-11-20T11:07:39+00:00",
+      "extracto": "Claude wouldn't help me pressure test my own app, so I tested 14 uncensored local AI models you can run on your own computer ...",
+      "vistas": 160442,
+      "miniatura": "https://i.ytimg.com/vi/Kc9NUuPc4Jk/hqdefault.jpg"
+    },
+    {
+      "titulo": "Master Video Editing on Claude in 30 Minutes",
+      "link": "https://www.youtube.com/watch?v=zKsWWpPuI8w",
+      "fuente": "The Cutting Edge School",
+      "categoria": "youtube",
+      "fecha": "2026-11-21T12:51:39+00:00",
+      "extracto": "Learn how to edit videos with Claude Code using AI video editing, motion graphics, 3D animations, captions, B-roll, and ...",
+      "vistas": 135333,
+      "miniatura": "https://i.ytimg.com/vi/zKsWWpPuI8w/hqdefault.jpg"
+    },
+    {
+      "titulo": "How To Build Self-Improving AI Agents with Claude (Stanford s Method)",
+      "link": "https://www.youtube.com/watch?v=UUg5oij7ptw",
+      "fuente": "Austin Marchese",
+      "categoria": "youtube",
+      "fecha": "2026-11-21T14:45:00+00:00",
+      "extracto": "Try Clay for free & get $250 worth of additional credits with my link (valid until 12/1) https://clay.link/pMD2rCl In this video I break ...",
+      "vistas": 131790,
+      "miniatura": "https://i.ytimg.com/vi/UUg5oij7ptw/hqdefault.jpg"
+    },
+    {
+      "titulo": "72 Hours to Make a Luxury Ad: Claude + Higgsfield AI Workflow",
+      "link": "https://www.youtube.com/watch?v=oqtXc0yI1S8",
+      "fuente": "Higgsfield AI",
+      "categoria": "youtube",
+      "fecha": "2026-11-21T14:54:53+00:00",
+      "extracto": "Up to 70% OFF: https://higgsfield.ai/s/hills-breakdown-higgsfieldai-tilKdu All Prompts, Skills & Assets: ...",
+      "vistas": 129388,
+      "miniatura": "https://i.ytimg.com/vi/oqtXc0yI1S8/hqdefault.jpg"
     }
   ]
 }

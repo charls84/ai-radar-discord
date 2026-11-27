@@ -1,12 +1,5 @@
 {
   "vistos": [
-    "b7ed146baa7cbc88",
-    "fd2d9580e35fde41",
-    "71bddf5f464adb94",
-    "3d4a158b3b4dcca6",
-    "415c6d2623c4849a",
-    "06503670dc464304",
-    "a4c6fe373cbaba7e",
     "5da3c45148ccdc82",
     "94f3e56c3dedff25",
     "1c90c5a383246de8",
@@ -1999,65 +1992,16 @@
     "e602939d48a2b0b2",
     "87c5e49948f37102",
     "5dd7ef54254f0fea",
-    "8222da637a1fedb4"
+    "8222da637a1fedb4",
+    "24fb3d3f527501a5",
+    "b9eedb6cd14c437c",
+    "5e870aad5640d30f",
+    "821ebf8965440c93",
+    "122e0153b6d9f05a",
+    "a99e16d0d56ea0fb",
+    "7923a20e028e3b04"
   ],
   "archivo": [
-    {
-      "titulo": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "fuente": "Google DeepMind",
-      "categoria": "releases",
-      "fecha": "2026-11-09T19:51:47+00:00",
-      "extracto": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety"
-    },
-    {
-      "titulo": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "link": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "fuente": "Hugging Face Blog",
-      "categoria": "releases",
-      "fecha": "2026-11-10T00:00:00+00:00",
-      "extracto": ""
-    },
-    {
-      "titulo": "Decision Models in Hugging Face",
-      "link": "https://huggingface.co/blog/decision",
-      "fuente": "Hugging Face Blog",
-      "categoria": "releases",
-      "fecha": "2026-11-10T00:00:00+00:00",
-      "extracto": ""
-    },
-    {
-      "titulo": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-11-10T19:57:52+00:00",
-      "extracto": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company."
-    },
-    {
-      "titulo": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-11-10T19:23:34+00:00",
-      "extracto": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”"
-    },
-    {
-      "titulo": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-11-10T19:03:52+00:00",
-      "extracto": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades."
-    },
-    {
-      "titulo": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-11-10T18:49:52+00:00",
-      "extracto": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that."
-    },
     {
       "titulo": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
       "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
@@ -14311,6 +14255,76 @@
       "categoria": "dxw",
       "fecha": "2026-11-27T08:42:17+00:00",
       "extracto": "Voice AI Escapes Call Centers to Automate Garment Manufacturing Workflows via Nool + Video Howl.Link"
+    },
+    {
+      "titulo": "We ve been asking: “What if AI solved the Riemann Hypothesis?”",
+      "link": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+      "fuente": "3Blue1Brown",
+      "categoria": "youtube",
+      "fecha": "2026-11-22T02:02:12+00:00",
+      "extracto": "Hypothetical no more Announcement by Levent Alpöge: https://alpo.ge/remark.pdf Announcement from Alessandro Maria Masullo ...",
+      "vistas": 3509557,
+      "miniatura": "https://i.ytimg.com/vi/zqzk43bSdDI/hqdefault.jpg"
+    },
+    {
+      "titulo": "😂 Humans ❌ Future Pets ✅ #funny #ai #comedy #memes #seojunprajapati",
+      "link": "https://www.youtube.com/watch?v=EbNLtC3IxAk",
+      "fuente": "Seojun prajapati",
+      "categoria": "youtube",
+      "fecha": "2026-11-22T13:41:20+00:00",
+      "extracto": "When AI Starts Planning To Colonise Humans! What happens when you ask Claude AI to count from 1 to 100000?",
+      "vistas": 1476745,
+      "miniatura": "https://i.ytimg.com/vi/EbNLtC3IxAk/hqdefault.jpg"
+    },
+    {
+      "titulo": "Your guests have never seen a wedding card like this 🤯",
+      "link": "https://www.youtube.com/watch?v=vtsx5ZV46NQ",
+      "fuente": "Ai Ka Thekedaar",
+      "categoria": "youtube",
+      "fecha": "2026-11-22T06:31:23+00:00",
+      "extracto": "This isn't a wedding card. It's an experience ✨ Tap, and the book opens Pull the tassel, and the date is revealed Swipe ...",
+      "vistas": 754221,
+      "miniatura": "https://i.ytimg.com/vi/vtsx5ZV46NQ/hqdefault.jpg"
+    },
+    {
+      "titulo": "Anthropic acaba de lanzar 12 funciones de Claude",
+      "link": "https://www.youtube.com/watch?v=PMnxDlD7mVw",
+      "fuente": "Benjamín Cordero",
+      "categoria": "youtube",
+      "fecha": "2026-11-26T16:54:01+00:00",
+      "extracto": "En dos semanas Anthropic lanzó 12 funciones de Claude y publicó 133 posts. Tantos que tuve que pedirle a Claude que me ...",
+      "vistas": 518729,
+      "miniatura": "https://i.ytimg.com/vi/PMnxDlD7mVw/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude braucht keine MCPs mehr #shorts",
+      "link": "https://www.youtube.com/watch?v=EMlIWh3NVGI",
+      "fuente": "Ernst Neumeister",
+      "categoria": "youtube",
+      "fecha": "2026-11-26T16:58:29+00:00",
+      "extracto": "Dein Lieblingsprogramm hat keine KI-Anbindung? Claude baut sie sich jetzt einfach selbst. Die Anleitung mit Link: ...",
+      "vistas": 6123,
+      "miniatura": "https://i.ytimg.com/vi/EMlIWh3NVGI/hqdefault.jpg"
+    },
+    {
+      "titulo": "How to Create Animated Explainer Videos With Claude AI (No Editing)",
+      "link": "https://www.youtube.com/watch?v=7Eg_Nl1ApdY",
+      "fuente": "Michael Da Creator🎥",
+      "categoria": "youtube",
+      "fecha": "2026-11-25T23:23:26+00:00",
+      "extracto": "https://higgsfield.ai/s/higgsfield-mcp-general-yt-michael-dacreator-FjfjfH Imagine creating AI images, cinematic videos, and ...",
+      "vistas": 2326,
+      "miniatura": "https://i.ytimg.com/vi/7Eg_Nl1ApdY/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude JUST solved the Riemann Hypothesis...",
+      "link": "https://www.youtube.com/watch?v=xjX3jESpZqs",
+      "fuente": "Wes Roth",
+      "categoria": "youtube",
+      "fecha": "2026-11-21T02:24:48+00:00",
+      "extracto": "Anthropic researcher Levent Alpöge just claimed that he and Claude discovered a proof of the 167-year-old Riemann Hypothesis, ...",
+      "vistas": 226490,
+      "miniatura": "https://i.ytimg.com/vi/xjX3jESpZqs/hqdefault.jpg"
     }
   ]
 }

@@ -1,7 +1,5 @@
 {
   "vistos": [
-    "5da3c45148ccdc82",
-    "94f3e56c3dedff25",
     "1c90c5a383246de8",
     "f76daf8282b7d9a9",
     "4314460e1596ce1b",
@@ -1999,25 +1997,11 @@
     "821ebf8965440c93",
     "122e0153b6d9f05a",
     "a99e16d0d56ea0fb",
-    "7923a20e028e3b04"
+    "7923a20e028e3b04",
+    "ad801a25ef7dd849",
+    "50f7b74251b63f53"
   ],
   "archivo": [
-    {
-      "titulo": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-11-10T17:30:00+00:00",
-      "extracto": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures."
-    },
-    {
-      "titulo": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-      "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "fuente": "TechCrunch AI",
-      "categoria": "news",
-      "fecha": "2026-11-10T17:04:19+00:00",
-      "extracto": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
-    },
     {
       "titulo": "Google broadens its AI hardware portfolio with two new specialized chips",
       "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
@@ -14325,6 +14309,26 @@
       "extracto": "Anthropic researcher Levent Alpöge just claimed that he and Claude discovered a proof of the 167-year-old Riemann Hypothesis, ...",
       "vistas": 226490,
       "miniatura": "https://i.ytimg.com/vi/xjX3jESpZqs/hqdefault.jpg"
+    },
+    {
+      "titulo": "When Claude hits the usage limit and Gemini saves the day 💀 #coding #ai",
+      "link": "https://www.youtube.com/watch?v=v1PJbZRa-ns",
+      "fuente": "AI Latest News",
+      "categoria": "youtube",
+      "fecha": "2026-11-26T11:11:25+00:00",
+      "extracto": "When Claude hits \"Usage limit reached\" right in the middle of coding, every developer knows the pain! Watch what happens ...",
+      "vistas": 134132,
+      "miniatura": "https://i.ytimg.com/vi/v1PJbZRa-ns/hqdefault.jpg"
+    },
+    {
+      "titulo": "Claude AI’s Biggest Math Breakthrough Has A Problem.",
+      "link": "https://www.youtube.com/watch?v=hwWlEuI359w",
+      "fuente": "Two Minute Papers",
+      "categoria": "youtube",
+      "fecha": "2026-11-25T09:54:23+00:00",
+      "extracto": "Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers The paper is available here: ...",
+      "vistas": 169936,
+      "miniatura": "https://i.ytimg.com/vi/hwWlEuI359w/hqdefault.jpg"
     }
   ]
 }
